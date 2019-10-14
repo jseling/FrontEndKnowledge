@@ -37,13 +37,20 @@ FrontEnd Knowledge
 - [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 - [A width-responsive perfect square in pure CSS](https://dev.to/tchaflich/a-width-responsive-perfect-square-in-pure-css-3dao)
 - [Dealing with platform inconsistencies as a North-Korean front-end developer](https://medium.com/swlh/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-ea116b910c55)  
+
 ### Flexbox
 - [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/#intro)
 - [CSS tricks: justify-content](https://css-tricks.com/almanac/properties/j/justify-content/)
 - [Mozilla: justify-content](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
 - [W3S: CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 - [Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
+- [CSS Flexbox – Um Guia Interativo (Parte 1 – Containers)](https://www.treinaweb.com.br/blog/css-flexbox-um-guia-interativo-parte-1-containers/)
+- [CSS Flexbox – Um Guia Interativo (Parte 2 – Itens)](https://www.treinaweb.com.br/blog/css-flexbox-um-guia-interativo-parte-2-itens/)
+- [FlexBox ou CSS Grid?](https://www.treinaweb.com.br/blog/flexbox-ou-css-grid/)
 
+### Grid
+- [CSS Grid – Um Guia Interativo (Parte 1 – Containers)](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-1-containers/)
+- [CSS Grid – Um Guia Interativo (Parte 2 – Itens)](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-2-itens/)
   
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
