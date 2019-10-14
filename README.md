@@ -39,6 +39,7 @@ FrontEnd Knowledge
 - [Dealing with platform inconsistencies as a North-Korean front-end developer](https://medium.com/swlh/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-ea116b910c55)  
 
 ### Media Query
+- [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
 - [Mozilla: Usando Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries)
 
 ### Flexbox
