@@ -38,6 +38,9 @@ FrontEnd Knowledge
 - [A width-responsive perfect square in pure CSS](https://dev.to/tchaflich/a-width-responsive-perfect-square-in-pure-css-3dao)
 - [Dealing with platform inconsistencies as a North-Korean front-end developer](https://medium.com/swlh/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-ea116b910c55)  
 
+### Media Query
+- [Mozilla: Usando Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries)
+
 ### Flexbox
 - [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/#intro)
 - [CSS tricks: justify-content](https://css-tricks.com/almanac/properties/j/justify-content/)
