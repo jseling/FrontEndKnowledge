@@ -17,19 +17,20 @@ FrontEnd Knowledge
 - [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 - [Hello, React! - A Beginner's Setup Tutorial](http://aspiringcraftsman.com/2017/05/25/hello-react-a-beginners-setup-tutorial/)
 - :star:[Introduction to React](https://flaviocopes.com/react/)
-- [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 - [The React Handbook](https://drive.google.com/drive/folders/1V7r9p8ERnJg6kL8cc8WG0haI03YSLqly)
 - [React vs. Angular Compared: Which One Suits Your Project Better?](https://dzone.com/articles/react-vs-angular-compared-which-one-suits-your-pro)
 - [don’t get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 - [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39)
 - [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
-- [CSS: The Programmer’s Guide to the Stylesheet](https://blog.prototypr.io/the-programmers-guide-to-the-stylesheet-13f2dce47429)
 - [What Are 7 Principles Of Design?](https://codersera.com/blog/what-are-7-principles-of-design/)
 - [A free guide to HTML5 <head> elements](https://htmlhead.dev/)
 - [don’t get clever with login forms](https://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
-- [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
   
 ## CSS  
+- [Mozilla Developer: CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [CSS: The Programmer’s Guide to the Stylesheet](https://blog.prototypr.io/the-programmers-guide-to-the-stylesheet-13f2dce47429)
+- [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 - [A width-responsive perfect square in pure CSS](https://dev.to/tchaflich/a-width-responsive-perfect-square-in-pure-css-3dao)
 - [Dealing with platform inconsistencies as a North-Korean front-end developer](https://medium.com/swlh/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-ea116b910c55)  
 ### Flexbox
