@@ -47,6 +47,9 @@ FrontEnd Knowledge
 - [CSS Flexbox – Um Guia Interativo (Parte 1 – Containers)](https://www.treinaweb.com.br/blog/css-flexbox-um-guia-interativo-parte-1-containers/)
 - [CSS Flexbox – Um Guia Interativo (Parte 2 – Itens)](https://www.treinaweb.com.br/blog/css-flexbox-um-guia-interativo-parte-2-itens/)
 - [FlexBox ou CSS Grid?](https://www.treinaweb.com.br/blog/flexbox-ou-css-grid/)
+- [Pare de chutar e aprenda como funciona Flexbox #01](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-flexbox-01-f75be5f35d3d)
+- [Desenvolvimento para web: Flexbox](https://desenvolvimentoparaweb.com/css/flexbox/)
+- [Material UI: Flexbox](https://material-ui.com/system/flexbox/)
 
 ### Grid
 - [CSS Grid – Um Guia Interativo (Parte 1 – Containers)](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-1-containers/)
