@@ -30,6 +30,7 @@ FrontEnd Knowledge
 - [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   
 ## CSS  
+- [A width-responsive perfect square in pure CSS](https://dev.to/tchaflich/a-width-responsive-perfect-square-in-pure-css-3dao)
 - [Dealing with platform inconsistencies as a North-Korean front-end developer](https://medium.com/swlh/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-ea116b910c55)  
   
 ## JavaScript
