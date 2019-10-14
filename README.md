@@ -29,6 +29,9 @@ FrontEnd Knowledge
 - [don’t get clever with login forms](https://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 - [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   
+## CSS  
+- [Dealing with platform inconsistencies as a North-Korean front-end developer](https://medium.com/swlh/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-ea116b910c55)  
+  
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
 - [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
