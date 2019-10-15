@@ -41,7 +41,7 @@ FrontEnd Knowledge
 - [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 - [A width-responsive perfect square in pure CSS](https://dev.to/tchaflich/a-width-responsive-perfect-square-in-pure-css-3dao)
 - [Dealing with platform inconsistencies as a North-Korean front-end developer](https://medium.com/swlh/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-ea116b910c55) 
-- :video:[APRENDA HTML5 E CSS3 - #1 Introdução e configuração do ambiente](https://www.youtube.com/watch?v=014fy8sGPto)
+- :clapper:[APRENDA HTML5 E CSS3 - #1 Introdução e configuração do ambiente](https://www.youtube.com/watch?v=014fy8sGPto)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
