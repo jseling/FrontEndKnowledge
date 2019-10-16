@@ -42,6 +42,7 @@ FrontEnd Knowledge
 - [A width-responsive perfect square in pure CSS](https://dev.to/tchaflich/a-width-responsive-perfect-square-in-pure-css-3dao)
 - [Dealing with platform inconsistencies as a North-Korean front-end developer](https://medium.com/swlh/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-ea116b910c55) 
 - :clapper:[APRENDA HTML5 E CSS3 - #1 Introdução e configuração do ambiente](https://www.youtube.com/watch?v=014fy8sGPto)
+- [You might not need a CSS framework](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
