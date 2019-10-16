@@ -75,6 +75,7 @@ FrontEnd Knowledge
 - [Practical Ways to Write Better JavaScript](https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/)
 - [15 Common JavaScript Questions](https://blog.soshace.com/en/javascript/15-common-javascript-questions/)
 - [Pacman](https://codepen.io/hellokatili/pen/xwKRmo)
+- [Pacman: No images](https://github.com/ziw/Javascript-Pacman)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
