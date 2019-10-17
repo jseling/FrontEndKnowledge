@@ -76,6 +76,7 @@ FrontEnd Knowledge
 - [15 Common JavaScript Questions](https://blog.soshace.com/en/javascript/15-common-javascript-questions/)
 - [Pacman](https://codepen.io/hellokatili/pen/xwKRmo)
 - [Pacman: No images](https://github.com/ziw/Javascript-Pacman)
+- [Rest and Spread operator: Three dots that changed JavaScript](https://www.wisdomgeek.com/development/web-development/rest-and-spread-operator-three-dots-that-changed-javascript/)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
