@@ -4,21 +4,7 @@ FrontEnd Knowledge
 ## General
 - [A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
 - [O que o mercado de Front-End espera de você?](https://www.linkedin.com/pulse/o-que-mercado-de-front-end-espera-voc%25C3%25AA-daniel-xavier)
-- [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
-- [Passo a passo: Introdução ao React](https://pt-br.reactjs.org/docs/hello-world.html)
-- [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
-- https://hakaselogs.me/2017-12-05/react-native-vs-ionic
-- https://hakaselogs.me/2017-09-11/learning-react-day-1
-- https://hakaselogs.me/2017-09-12/learning-react-day-2
-- https://dev.to/aspittel/a-complete-beginners-guide-to-react-2cl6
-- https://dev.to/liveedutv/3-best-practices-for-working-with-react-components-3j44
-- http://blog.matheuscastiglioni.com.br/referenciando-componentes-no-react
 - https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10
-- [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
-- [Hello, React! - A Beginner's Setup Tutorial](http://aspiringcraftsman.com/2017/05/25/hello-react-a-beginners-setup-tutorial/)
-- :star:[Introduction to React](https://flaviocopes.com/react/)
-- [The React Handbook](https://drive.google.com/drive/folders/1V7r9p8ERnJg6kL8cc8WG0haI03YSLqly)
-- [React vs. Angular Compared: Which One Suits Your Project Better?](https://dzone.com/articles/react-vs-angular-compared-which-one-suits-your-pro)
 - [don’t get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 - [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39)
 - [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
@@ -77,6 +63,23 @@ FrontEnd Knowledge
 - [Pacman](https://codepen.io/hellokatili/pen/xwKRmo)
 - [Pacman: No images](https://github.com/ziw/Javascript-Pacman)
 - [Rest and Spread operator: Three dots that changed JavaScript](https://www.wisdomgeek.com/development/web-development/rest-and-spread-operator-three-dots-that-changed-javascript/)
+
+## React
+- [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
+- [Passo a passo: Introdução ao React](https://pt-br.reactjs.org/docs/hello-world.html)
+- [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
+- https://hakaselogs.me/2017-12-05/react-native-vs-ionic
+- https://hakaselogs.me/2017-09-11/learning-react-day-1
+- https://hakaselogs.me/2017-09-12/learning-react-day-2
+- https://dev.to/aspittel/a-complete-beginners-guide-to-react-2cl6
+- https://dev.to/liveedutv/3-best-practices-for-working-with-react-components-3j44
+- http://blog.matheuscastiglioni.com.br/referenciando-componentes-no-react
+- [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
+- [Hello, React! - A Beginner's Setup Tutorial](http://aspiringcraftsman.com/2017/05/25/hello-react-a-beginners-setup-tutorial/)
+- :star:[Introduction to React](https://flaviocopes.com/react/)
+- [The React Handbook](https://drive.google.com/drive/folders/1V7r9p8ERnJg6kL8cc8WG0haI03YSLqly)
+- [React vs. Angular Compared: Which One Suits Your Project Better?](https://dzone.com/articles/react-vs-angular-compared-which-one-suits-your-pro)
+- [CSS Styles in React](https://nordschool.com/css-in-react/)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
