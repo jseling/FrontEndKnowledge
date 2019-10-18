@@ -85,3 +85,4 @@ FrontEnd Knowledge
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
 - [What languages can be compiled to WebAssembly (or wasm)?](https://stackoverflow.com/questions/43540878/what-languages-can-be-compiled-to-webassembly-or-wasm/43585437#43585437)
 - [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
+- [FreePascal WebAssembly](https://lists.freepascal.org/pipermail/fpc-pascal/2019-September/056848.html)
