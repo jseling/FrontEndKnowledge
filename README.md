@@ -86,3 +86,4 @@ FrontEnd Knowledge
 - [What languages can be compiled to WebAssembly (or wasm)?](https://stackoverflow.com/questions/43540878/what-languages-can-be-compiled-to-webassembly-or-wasm/43585437#43585437)
 - [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
 - [FreePascal WebAssembly](https://lists.freepascal.org/pipermail/fpc-pascal/2019-September/056848.html)
+- [WASM Codelabs intro](https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0)
