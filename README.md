@@ -20,6 +20,10 @@ FrontEnd Knowledge
 ## HTML
 - [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
 - [W3S: HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [W3S: All tags](https://www.w3schools.com/tags/)
+- [Mozzila: Elementos HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+- [All HTML5 Tags](https://www.html-5-tutorial.com/all-html-tags.htm)
+- :star:[HTML CheatSheet](https://htmlcheatsheet.com/)
   
 ## CSS  
 - [Mozilla Developer: CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
