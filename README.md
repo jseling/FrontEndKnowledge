@@ -33,6 +33,9 @@ FrontEnd Knowledge
 - [Dealing with platform inconsistencies as a North-Korean front-end developer](https://medium.com/swlh/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-ea116b910c55) 
 - :clapper:[APRENDA HTML5 E CSS3 - #1 Introdução e configuração do ambiente](https://www.youtube.com/watch?v=014fy8sGPto)
 - [You might not need a CSS framework](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
+- [CSS for Beginners](https://medium.com/better-programming/css-for-beginners-af73426c6388)
+- [Set up CSS stylelint on Visual Studio Code [Tutorial]](https://hackernoon.com/setting-up-css-stylelint-on-visual-studio-code-85s32l0)
+- [Using Media Queries in CSS](https://medium.com/swlh/using-media-queries-in-css-1d7aa8d30dcf)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
@@ -74,6 +77,13 @@ FrontEnd Knowledge
 - [ES6 Tricks: Quick Enum & Bitwise Class Constants](https://seanmorr.is/blog/6979843DF39811E989D70242AC190005)
 - [The problems of shared mutable state and how to avoid them](https://2ality.com/2019/10/shared-mutable-state.html)
 - [Unit and Integration Testing of React/Redux Forms](https://djangostars.com/blog/unit-integration-testing-redux-react-forms/)
+- [Comparing Objects in JavaScript](https://medium.com/javascript-in-plain-english/comparing-objects-in-javascript-ce2dc1f3de7f)
+- [Functional Programming in JavaScript: Introduction and Practical Examples]https://medium.com/better-programming/functional-programming-in-javascript-introduction-and-practical-examples-d268e44395b2()
+- [Serialization and Deserialization](https://medium.com/better-programming/serialization-and-deserialization-ba12fc3fbe23)
+- [Why You Shouldn’t Use JSON.stringify to Compare Objects in JavaScript](https://medium.com/better-programming/why-you-shouldnt-use-json-stringify-to-compare-objects-in-javascript-c9a16b7331e)
+- [Why You Should Learn JavaScript Principles First (Not the Hottest Frameworks)](https://medium.com/better-programming/why-you-should-learn-javascript-principles-first-not-the-hottest-frameworks-66d4d56d0382)
+- [The Comprehensive Guide to Operators, Expressions, and Statements in JavaScript](https://medium.com/better-programming/the-comprehensive-guide-to-operators-expressions-and-statements-in-javascript-8da6289b763e)
+- [JavaScript Essentials (Concepts + Code) Frontend Development For Beginners](https://hackernoon.com/javascript-essentials-concepts-code-for-frontend-developers-5qv322a)
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
