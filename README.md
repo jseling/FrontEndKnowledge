@@ -70,6 +70,7 @@ FrontEnd Knowledge
 - [Pacman](https://codepen.io/hellokatili/pen/xwKRmo)
 - [Pacman: No images](https://github.com/ziw/Javascript-Pacman)
 - [Rest and Spread operator: Three dots that changed JavaScript](https://www.wisdomgeek.com/development/web-development/rest-and-spread-operator-three-dots-that-changed-javascript/)
+- [JavaScript Destructuring ES6: The Complete Guide](https://buginit.com/javascript/javascript-destructuring-es6-the-complete-guide/)
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
