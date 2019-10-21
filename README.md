@@ -71,6 +71,9 @@ FrontEnd Knowledge
 - [Pacman: No images](https://github.com/ziw/Javascript-Pacman)
 - [Rest and Spread operator: Three dots that changed JavaScript](https://www.wisdomgeek.com/development/web-development/rest-and-spread-operator-three-dots-that-changed-javascript/)
 - [JavaScript Destructuring ES6: The Complete Guide](https://buginit.com/javascript/javascript-destructuring-es6-the-complete-guide/)
+- [ES6 Tricks: Quick Enum & Bitwise Class Constants](https://seanmorr.is/blog/6979843DF39811E989D70242AC190005)
+- [The problems of shared mutable state and how to avoid them](https://2ality.com/2019/10/shared-mutable-state.html)
+- [Unit and Integration Testing of React/Redux Forms](https://djangostars.com/blog/unit-integration-testing-redux-react-forms/)
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
