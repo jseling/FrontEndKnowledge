@@ -86,7 +86,7 @@ FrontEnd Knowledge
 ### Medium
 - [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 - [Comparing Objects in JavaScript](https://medium.com/javascript-in-plain-english/comparing-objects-in-javascript-ce2dc1f3de7f)
-- [Functional Programming in JavaScript: Introduction and Practical Examples]https://medium.com/better-programming/functional-programming-in-javascript-introduction-and-practical-examples-d268e44395b2()
+- [Functional Programming in JavaScript: Introduction and Practical Examples](https://medium.com/better-programming/functional-programming-in-javascript-introduction-and-practical-examples-d268e44395b2)
 - [Serialization and Deserialization](https://medium.com/better-programming/serialization-and-deserialization-ba12fc3fbe23)
 - [Why You Shouldn’t Use JSON.stringify to Compare Objects in JavaScript](https://medium.com/better-programming/why-you-shouldnt-use-json-stringify-to-compare-objects-in-javascript-c9a16b7331e)
 - [Why You Should Learn JavaScript Principles First (Not the Hottest Frameworks)](https://medium.com/better-programming/why-you-should-learn-javascript-principles-first-not-the-hottest-frameworks-66d4d56d0382)
