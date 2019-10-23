@@ -64,7 +64,6 @@ FrontEnd Knowledge
   
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
-- [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 - [Minecraft Clone: ThreeJS, ReactJS, GraphQL and NodeJS](https://github.com/ian13456/mc.js)
 - [Why is modern web development so complicated? A long yet hasty explanation: Part 1!](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
@@ -77,13 +76,24 @@ FrontEnd Knowledge
 - [ES6 Tricks: Quick Enum & Bitwise Class Constants](https://seanmorr.is/blog/6979843DF39811E989D70242AC190005)
 - [The problems of shared mutable state and how to avoid them](https://2ality.com/2019/10/shared-mutable-state.html)
 - [Unit and Integration Testing of React/Redux Forms](https://djangostars.com/blog/unit-integration-testing-redux-react-forms/)
+- [JavaScript Essentials (Concepts + Code) Frontend Development For Beginners](https://hackernoon.com/javascript-essentials-concepts-code-for-frontend-developers-5qv322a)
+- [Javascript Callback Functions](https://dzone.com/articles/javascript-callback-functions)
+- [JavaScript Callback Functions: An In-Depth Guide](https://dzone.com/articles/javascript-callback-functions-in-depth-guide-for-2)
+- [JavaScript Essentials (Concepts + Code) Frontend Development For Beginners](https://hackernoon.com/javascript-essentials-concepts-code-for-frontend-developers-5qv322a)
+- [Three Ways to Create Objects in JavaScript](https://dzone.com/articles/three-different-ways-to-create-objects-in-javascri)
+- [Javascript Image Compress using HTML5 Canvas & File API before Upload](https://www.phplift.net/javascript-image-compress-using-html5-canvas-file-api-before-upload/)
+
+### Medium
+- [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 - [Comparing Objects in JavaScript](https://medium.com/javascript-in-plain-english/comparing-objects-in-javascript-ce2dc1f3de7f)
 - [Functional Programming in JavaScript: Introduction and Practical Examples]https://medium.com/better-programming/functional-programming-in-javascript-introduction-and-practical-examples-d268e44395b2()
 - [Serialization and Deserialization](https://medium.com/better-programming/serialization-and-deserialization-ba12fc3fbe23)
 - [Why You Shouldn’t Use JSON.stringify to Compare Objects in JavaScript](https://medium.com/better-programming/why-you-shouldnt-use-json-stringify-to-compare-objects-in-javascript-c9a16b7331e)
 - [Why You Should Learn JavaScript Principles First (Not the Hottest Frameworks)](https://medium.com/better-programming/why-you-should-learn-javascript-principles-first-not-the-hottest-frameworks-66d4d56d0382)
 - [The Comprehensive Guide to Operators, Expressions, and Statements in JavaScript](https://medium.com/better-programming/the-comprehensive-guide-to-operators-expressions-and-statements-in-javascript-8da6289b763e)
-- [JavaScript Essentials (Concepts + Code) Frontend Development For Beginners](https://hackernoon.com/javascript-essentials-concepts-code-for-frontend-developers-5qv322a)
+- [Javascript Basics and Fundamentals](https://levelup.gitconnected.com/javascript-basics-and-fundamentals-ccb1f017d6f3)
+- [A Beginner’s Guide to google-map-react](https://levelup.gitconnected.com/google-map-react-beginners-guide-85bb1a94b04a)
+
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
