@@ -112,6 +112,9 @@ FrontEnd Knowledge
 - [React vs. Angular Compared: Which One Suits Your Project Better?](https://dzone.com/articles/react-vs-angular-compared-which-one-suits-your-pro)
 - [CSS Styles in React](https://nordschool.com/css-in-react/)
 
+### Components
+- [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
+
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
 
