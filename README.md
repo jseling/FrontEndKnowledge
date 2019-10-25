@@ -94,6 +94,9 @@ FrontEnd Knowledge
 - [Javascript Basics and Fundamentals](https://levelup.gitconnected.com/javascript-basics-and-fundamentals-ccb1f017d6f3)
 - [A Beginner’s Guide to google-map-react](https://levelup.gitconnected.com/google-map-react-beginners-guide-85bb1a94b04a)
 
+### Operador Spread
+- [Sintaxe de Espalhamento (Spread syntax) ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+- [Spread operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator)
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
