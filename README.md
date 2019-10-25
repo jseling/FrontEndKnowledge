@@ -83,6 +83,12 @@ FrontEnd Knowledge
 - [Three Ways to Create Objects in JavaScript](https://dzone.com/articles/three-different-ways-to-create-objects-in-javascri)
 - [Javascript Image Compress using HTML5 Canvas & File API before Upload](https://www.phplift.net/javascript-image-compress-using-html5-canvas-file-api-before-upload/)
 
+### Video-aula
+- [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
+- [02/10 Arrow Function - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=Zr1g1KqZaYY&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=2)
+- [03/10 Destructuring - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=4wwhyKZjYbY&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=3)
+- [04/10 Rest e Spread - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=8xgqEBE1SKI&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=4)
+
 ### Medium
 - [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 - [Comparing Objects in JavaScript](https://medium.com/javascript-in-plain-english/comparing-objects-in-javascript-ce2dc1f3de7f)
