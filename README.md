@@ -63,7 +63,7 @@ FrontEnd Knowledge
 - [Documentação oficial](https://getbootstrap.com.br/docs/4.1/getting-started/introduction/)
   
 ## JavaScript
-- https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
+- [JavaScript Async/Await 101](https://hakaselogs.me/2017-08-12/javascript-async/await-101/)
 - [Minecraft Clone: ThreeJS, ReactJS, GraphQL and NodeJS](https://github.com/ian13456/mc.js)
 - [Why is modern web development so complicated? A long yet hasty explanation: Part 1!](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
