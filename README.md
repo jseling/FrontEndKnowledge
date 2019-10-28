@@ -17,6 +17,9 @@ FrontEnd Knowledge
 ## CanIUse
 - [Caniuse.com](https://caniuse.com/)
 
+## NPM
+- [Dependency module graph](http://npm.broofa.com/)
+
 ## HTML
 - [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
 - [W3S: HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -99,6 +102,7 @@ FrontEnd Knowledge
 - [The Comprehensive Guide to Operators, Expressions, and Statements in JavaScript](https://medium.com/better-programming/the-comprehensive-guide-to-operators-expressions-and-statements-in-javascript-8da6289b763e)
 - [Javascript Basics and Fundamentals](https://levelup.gitconnected.com/javascript-basics-and-fundamentals-ccb1f017d6f3)
 - [A Beginner’s Guide to google-map-react](https://levelup.gitconnected.com/google-map-react-beginners-guide-85bb1a94b04a)
+- [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
 
 ### Operador Spread
 - [Sintaxe de Espalhamento (Spread syntax) ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
