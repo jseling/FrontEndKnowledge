@@ -104,6 +104,19 @@ FrontEnd Knowledge
 - [A Beginner’s Guide to google-map-react](https://levelup.gitconnected.com/google-map-react-beginners-guide-85bb1a94b04a)
 - [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
 
+### Parallel Programming
+- [Writing Asynchronous Tasks In Modern JavaScript](https://www.smashingmagazine.com/2019/10/asynchronous-tasks-modern-javascript/)
+
+### Object Oriented Programming
+- [A Guide to Object-Oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81)
+
+### Functional Programming
+- [Functional Programming Principles in Javascript](https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/)
+- [Functional Programming in JavaScript](https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5)
+- [The power of functional programming in Javascript](https://itnext.io/the-power-of-functional-programming-in-javascript-cc9797a42b60)
+- [An introduction to Functional Programming with JavaScript](https://flaviocopes.com/javascript-functional-programming/)
+- [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
+
 ### Operador Spread
 - [Sintaxe de Espalhamento (Spread syntax) ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [Spread operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator)
