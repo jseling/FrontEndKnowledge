@@ -111,6 +111,9 @@ FrontEnd Knowledge
 ### Object Oriented Programming
 - [A Guide to Object-Oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81)
 
+### Arrow functions
+- [ES6 In Depth: Arrow functions](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
+
 ### Functional Programming
 - [Functional Programming Principles in Javascript](https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/)
 - [Functional Programming in JavaScript](https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5)
