@@ -13,6 +13,7 @@ FrontEnd Knowledge
 - [don’t get clever with login forms](https://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 - [9 basic principles of responsive web design](https://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 - [Vanilla JavaScript and HTML - No frameworks. No libraries. No problem.](https://johnpapa.net/render-html-2/)  
+- [WEB COMPONENTS: AN IN-DEPTH REVIEW WITH EXAMPLES](https://walkingtree.tech/web-components-an-in-depth-review-with-examples/)
 
 ## CanIUse
 - [Caniuse.com](https://caniuse.com/)
