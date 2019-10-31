@@ -86,6 +86,8 @@ FrontEnd Knowledge
 - [JavaScript Essentials (Concepts + Code) Frontend Development For Beginners](https://hackernoon.com/javascript-essentials-concepts-code-for-frontend-developers-5qv322a)
 - [Three Ways to Create Objects in JavaScript](https://dzone.com/articles/three-different-ways-to-create-objects-in-javascri)
 - [Javascript Image Compress using HTML5 Canvas & File API before Upload](https://www.phplift.net/javascript-image-compress-using-html5-canvas-file-api-before-upload/)
+- [Comparing the Different Types of Native JavaScript Popups](https://css-tricks.com/comparing-the-different-types-of-native-javascript-popups/)
+- [The Complete Reference for JavaScript Arrays](https://levelup.gitconnected.com/the-complete-reference-of-array-in-javascript-90b7e479989e)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -104,6 +106,8 @@ FrontEnd Knowledge
 - [Javascript Basics and Fundamentals](https://levelup.gitconnected.com/javascript-basics-and-fundamentals-ccb1f017d6f3)
 - [A Beginner’s Guide to google-map-react](https://levelup.gitconnected.com/google-map-react-beginners-guide-85bb1a94b04a)
 - [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
+- [Lesser-Known JavaScript Hazards](https://medium.com/better-programming/lesser-known-javascript-hazards-8d688a463b1f)
+- [Using Hooks for Lazy-Loading Images in React](https://medium.com/better-programming/image-lazy-loading-in-react-intersection-observer-a9ae912ddafe)
 
 ### Parallel Programming
 - [Writing Asynchronous Tasks In Modern JavaScript](https://www.smashingmagazine.com/2019/10/asynchronous-tasks-modern-javascript/)
