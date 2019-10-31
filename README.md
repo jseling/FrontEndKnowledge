@@ -162,6 +162,7 @@ FrontEnd Knowledge
 - [Testing Overview](https://reactjs.org/docs/testing.html)
 
 ## Frontend patterns
+- [A Tale of Two Buttons](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f)
 - [BEM - Block Element Modifier](http://getbem.com/introduction/)
 
 ## WebAssembly
