@@ -39,11 +39,12 @@ FrontEnd Knowledge
 - [You might not need a CSS framework](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
 - [CSS for Beginners](https://medium.com/better-programming/css-for-beginners-af73426c6388)
 - [Set up CSS stylelint on Visual Studio Code [Tutorial]](https://hackernoon.com/setting-up-css-stylelint-on-visual-studio-code-85s32l0)
-- [Using Media Queries in CSS](https://medium.com/swlh/using-media-queries-in-css-1d7aa8d30dcf)
+- :star:[Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
 - [Mozilla: Usando Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries)
+- [Using Media Queries in CSS](https://medium.com/swlh/using-media-queries-in-css-1d7aa8d30dcf)
 
 ### Flexbox
 - [Learn Flexbox for free](https://scrimba.com/g/gflexbox)
