@@ -107,9 +107,13 @@ FrontEnd Knowledge
 
 ### Parallel Programming
 - [Writing Asynchronous Tasks In Modern JavaScript](https://www.smashingmagazine.com/2019/10/asynchronous-tasks-modern-javascript/)
+- [Async JavaScript Part 1: The Callback](https://www.codespot.org/async-javascript-part-1-the-callback/)
+- [Async JavaScript Part 2: Promises](https://www.codespot.org/async-javascript-part-2-promises/)
+- [Async JavaScript Part 3: Async/Await](https://www.codespot.org/async-javascript-part-3-async-await/)
 
 ### Object Oriented Programming
 - [A Guide to Object-Oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81)
+- [JavaScript 101: Object Oriented Programming](https://www.codespot.org/javascript-101-object-oriented-programming/)
 
 ### Arrow functions
 - [ES6 In Depth: Arrow functions](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
@@ -120,10 +124,14 @@ FrontEnd Knowledge
 - [The power of functional programming in Javascript](https://itnext.io/the-power-of-functional-programming-in-javascript-cc9797a42b60)
 - [An introduction to Functional Programming with JavaScript](https://flaviocopes.com/javascript-functional-programming/)
 - [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
+- [Pure functions in JavaScript](http://willtaylor.blog/javascript-pure-functions/)
 
 ### Operador Spread
 - [Sintaxe de Espalhamento (Spread syntax) ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [Spread operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+
+### Design Patterns
+- [JavaScript 101: Design Patterns](https://www.codespot.org/javascript-101-design-patterns/)
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
