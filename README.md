@@ -161,6 +161,9 @@ FrontEnd Knowledge
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
 
+## Frontend patterns
+- [BEM - Block Element Modifier](http://getbem.com/introduction/)
+
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
 - [What languages can be compiled to WebAssembly (or wasm)?](https://stackoverflow.com/questions/43540878/what-languages-can-be-compiled-to-webassembly-or-wasm/43585437#43585437)
