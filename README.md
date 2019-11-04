@@ -40,6 +40,7 @@ FrontEnd Knowledge
 - [CSS for Beginners](https://medium.com/better-programming/css-for-beginners-af73426c6388)
 - [Set up CSS stylelint on Visual Studio Code [Tutorial]](https://hackernoon.com/setting-up-css-stylelint-on-visual-studio-code-85s32l0)
 - :star:[Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- :art:[Pure CSS – Lace](https://news.ycombinator.com/item?id=21440508)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
