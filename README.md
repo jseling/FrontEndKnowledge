@@ -14,7 +14,8 @@ FrontEnd Knowledge
 - [9 basic principles of responsive web design](https://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 - [Vanilla JavaScript and HTML - No frameworks. No libraries. No problem.](https://johnpapa.net/render-html-2/)  
 - [WEB COMPONENTS: AN IN-DEPTH REVIEW WITH EXAMPLES](https://walkingtree.tech/web-components-an-in-depth-review-with-examples/)
-
+- [How to Create PDFs with Node.js](https://levelup.gitconnected.com/how-to-create-pdfs-with-node-js-c2eb94034f01)
+  
 ## CanIUse
 - [Caniuse.com](https://caniuse.com/)
 
@@ -158,6 +159,9 @@ FrontEnd Knowledge
 
 ### Components
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
+
+### Hooks
+- [Clean Components with React Hooks](https://levelup.gitconnected.com/clean-components-with-react-hooks-4cfef201176e)
 
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
