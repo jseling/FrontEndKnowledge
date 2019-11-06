@@ -15,6 +15,7 @@ FrontEnd Knowledge
 - [Vanilla JavaScript and HTML - No frameworks. No libraries. No problem.](https://johnpapa.net/render-html-2/)  
 - [WEB COMPONENTS: AN IN-DEPTH REVIEW WITH EXAMPLES](https://walkingtree.tech/web-components-an-in-depth-review-with-examples/)
 - [How to Create PDFs with Node.js](https://levelup.gitconnected.com/how-to-create-pdfs-with-node-js-c2eb94034f01)
+- [Micro Frontend Curry](https://levelup.gitconnected.com/micro-frontend-curry-506b98a4cfc0)
   
 ## Livros
   - :book:[PacktPub: Modern JavaScript Web Development Cookbook](https://subscription.packtpub.com/book/web_development/9781788992749)
@@ -94,6 +95,8 @@ FrontEnd Knowledge
 - [Javascript Image Compress using HTML5 Canvas & File API before Upload](https://www.phplift.net/javascript-image-compress-using-html5-canvas-file-api-before-upload/)
 - [Comparing the Different Types of Native JavaScript Popups](https://css-tricks.com/comparing-the-different-types-of-native-javascript-popups/)
 - [The Complete Reference for JavaScript Arrays](https://levelup.gitconnected.com/the-complete-reference-of-array-in-javascript-90b7e479989e)
+- [Using Classes in JavaScript](https://levelup.gitconnected.com/using-classes-in-javascript-e677d248bb6e)
+- [Using Generators in JavaScript](https://levelup.gitconnected.com/using-generators-in-javascript-157420258408)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -175,6 +178,7 @@ FrontEnd Knowledge
 
 ## Accessibility
 - [What I’ve learned about accessibility in SPAs](https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas/)
+- [Creating Online Environments That Work Well For Older Users](https://www.smashingmagazine.com/2019/11/online-environments-older-users/)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
