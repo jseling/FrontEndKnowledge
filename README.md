@@ -16,8 +16,8 @@ FrontEnd Knowledge
 - [WEB COMPONENTS: AN IN-DEPTH REVIEW WITH EXAMPLES](https://walkingtree.tech/web-components-an-in-depth-review-with-examples/)
 - [How to Create PDFs with Node.js](https://levelup.gitconnected.com/how-to-create-pdfs-with-node-js-c2eb94034f01)
   
-  ## Livros
-  - [PacktPub: Modern JavaScript Web Development Cookbook](https://subscription.packtpub.com/book/web_development/9781788992749)
+## Livros
+  - :book:[PacktPub: Modern JavaScript Web Development Cookbook](https://subscription.packtpub.com/book/web_development/9781788992749)
   
 ## CanIUse
 - [Caniuse.com](https://caniuse.com/)
