@@ -165,6 +165,7 @@ FrontEnd Knowledge
 
 ### Components
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
+- [Stop Using Loading Spinner, There’s Something Better](https://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
 
 ### Hooks
 - [Clean Components with React Hooks](https://levelup.gitconnected.com/clean-components-with-react-hooks-4cfef201176e)
