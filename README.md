@@ -147,6 +147,9 @@ FrontEnd Knowledge
 ### Design Patterns
 - [JavaScript 101: Design Patterns](https://www.codespot.org/javascript-101-design-patterns/)
 
+## Frameworks
+- [Build your own React in 90 lines of JavaScript](https://dev.to/ameerthehacker/build-your-own-react-in-90-lines-of-javascript-1je2)
+
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
 - [Passo a passo: Introdução ao React](https://pt-br.reactjs.org/docs/hello-world.html)
