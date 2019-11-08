@@ -16,7 +16,8 @@ FrontEnd Knowledge
 - [WEB COMPONENTS: AN IN-DEPTH REVIEW WITH EXAMPLES](https://walkingtree.tech/web-components-an-in-depth-review-with-examples/)
 - [How to Create PDFs with Node.js](https://levelup.gitconnected.com/how-to-create-pdfs-with-node-js-c2eb94034f01)
 - [Micro Frontend Curry](https://levelup.gitconnected.com/micro-frontend-curry-506b98a4cfc0)
-  
+- [Let’s Get Graphic: A Few Ways To Draw On The Web](https://stackoverflow.blog/2019/11/06/lets-get-graphic-a-few-ways-to-draw-on-the-web/)
+ 
 ## Livros
   - :book:[PacktPub: Modern JavaScript Web Development Cookbook](https://subscription.packtpub.com/book/web_development/9781788992749)
   
