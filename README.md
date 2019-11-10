@@ -168,6 +168,7 @@ FrontEnd Knowledge
 - [The React Handbook](https://drive.google.com/drive/folders/1V7r9p8ERnJg6kL8cc8WG0haI03YSLqly)
 - [React vs. Angular Compared: Which One Suits Your Project Better?](https://dzone.com/articles/react-vs-angular-compared-which-one-suits-your-pro)
 - [CSS Styles in React](https://nordschool.com/css-in-react/)
+- [Adicione o React a um site](https://pt-br.reactjs.org/docs/add-react-to-a-website.html)
 
 ### Components
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
