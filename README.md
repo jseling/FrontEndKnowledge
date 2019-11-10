@@ -24,8 +24,9 @@ FrontEnd Knowledge
 ## CanIUse
 - [Caniuse.com](https://caniuse.com/)
 
-## NPM
+## NPM & Yarn: Package managers
 - [Dependency module graph](http://npm.broofa.com/)
+- [Yarn, primeiras impressões](https://www.lambda3.com.br/2016/10/yarn-primeiras-impressoes/)
 
 ## HTML
 - [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
