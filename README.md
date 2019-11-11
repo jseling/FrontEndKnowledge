@@ -52,6 +52,7 @@ FrontEnd Knowledge
 - [Set up CSS stylelint on Visual Studio Code [Tutorial]](https://hackernoon.com/setting-up-css-stylelint-on-visual-studio-code-85s32l0)
 - :star:[Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - :art:[Pure CSS – Lace](https://css-tricks.com/diana-smiths-pure-css-artwork-lace/)
+- :art:[Pac-Man… in CSS!](https://css-tricks.com/pac-man-in-css/)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
@@ -104,6 +105,9 @@ FrontEnd Knowledge
 - [The Complete Reference for JavaScript Arrays](https://levelup.gitconnected.com/the-complete-reference-of-array-in-javascript-90b7e479989e)
 - [Using Classes in JavaScript](https://levelup.gitconnected.com/using-classes-in-javascript-e677d248bb6e)
 - [Using Generators in JavaScript](https://levelup.gitconnected.com/using-generators-in-javascript-157420258408)
+- [7 Essential JavaScript Functions](https://medium.com/@AliyahChoudhry/7-essential-javascript-functions-3f96c80f868e)
+- [Responsible JavaScript: Part I](https://alistapart.com/article/responsible-javascript-part-1/)
+- [Responsible JavaScript: Part II](https://alistapart.com/article/responsible-javascript-part-2/)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -182,13 +186,15 @@ FrontEnd Knowledge
 
 ### Hooks
 - [Clean Components with React Hooks](https://levelup.gitconnected.com/clean-components-with-react-hooks-4cfef201176e)
+- [Introduction to React Hooks](https://dzone.com/articles/introduction-to-react-hooks)
 
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
 
 ## Frontend patterns
-- [A Tale of Two Buttons](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f)
+- [A Tale of Two Buttons (css parametrizado) ](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f)
 - [BEM - Block Element Modifier](http://getbem.com/introduction/)
+- [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
 
 ## Accessibility
 - [What I’ve learned about accessibility in SPAs](https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas/)
