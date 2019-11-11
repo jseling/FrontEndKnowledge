@@ -114,6 +114,12 @@ FrontEnd Knowledge
 - [02/10 Arrow Function - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=Zr1g1KqZaYY&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=2)
 - [03/10 Destructuring - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=4wwhyKZjYbY&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=3)
 - [04/10 Rest e Spread - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=8xgqEBE1SKI&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=4)
+- [05/10 Modules - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=42JwezkHVVI&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=5)
+- [06/10 Fetch - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=fhIDgAfuJZ8&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=6)
+- [07/10 Async / Await - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=Z5D_Jj6JStw&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=7)
+- [08/10 Array - Map, Filter e Reduce - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=XiAtxDeP-p8&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=8)
+- [09/10 Expressões - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=pbLTGXxTfNo&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=9)
+- [10/10 Class - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=ITdr-Z27UCE&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=10)
 
 ### Medium
 - [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
