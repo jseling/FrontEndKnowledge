@@ -1,6 +1,10 @@
 # FrontEndKnowledge
 FrontEnd Knowledge
 
+## Sites
+- [CSS Tricks](https://css-tricks.com/)
+- [Philip Walton](https://philipwalton.com/)
+
 ## General
 - [A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
 - [O que o mercado de Front-End espera de você?](https://www.linkedin.com/pulse/o-que-mercado-de-front-end-espera-voc%25C3%25AA-daniel-xavier)
