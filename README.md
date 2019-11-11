@@ -67,6 +67,7 @@ FrontEnd Knowledge
 - [Pare de chutar e aprenda como funciona Flexbox #01](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-flexbox-01-f75be5f35d3d)
 - [Desenvolvimento para web: Flexbox](https://desenvolvimentoparaweb.com/css/flexbox/)
 - [Material UI: Flexbox](https://material-ui.com/system/flexbox/)
+- :star:[Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 
 ### Grid
 - [CSS Grid – Um Guia Interativo (Parte 1 – Containers)](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-1-containers/)
