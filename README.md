@@ -150,9 +150,12 @@ FrontEnd Knowledge
 - [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
 - [Pure functions in JavaScript](http://willtaylor.blog/javascript-pure-functions/)
 
-### Operador Spread
+### Spread Operator
 - [Sintaxe de Espalhamento (Spread syntax) ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [Spread operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+
+### Destructuring assignment
+- [Mozzila: Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 
 ### Design Patterns
 - [JavaScript 101: Design Patterns](https://www.codespot.org/javascript-101-design-patterns/)
@@ -178,6 +181,7 @@ FrontEnd Knowledge
 - [React vs. Angular Compared: Which One Suits Your Project Better?](https://dzone.com/articles/react-vs-angular-compared-which-one-suits-your-pro)
 - [CSS Styles in React](https://nordschool.com/css-in-react/)
 - [Adicione o React a um site](https://pt-br.reactjs.org/docs/add-react-to-a-website.html)
+- [Why we use setState with function?](https://en.reddit.com/r/reactjs/comments/duvq53/why_we_use_setstate_with_function/)
 
 ### Components
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
