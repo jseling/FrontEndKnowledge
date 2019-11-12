@@ -190,6 +190,7 @@ FrontEnd Knowledge
 - [Why we use setState with function?](https://en.reddit.com/r/reactjs/comments/duvq53/why_we_use_setstate_with_function/)
 
 ### Components
+- [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
 - [Stop Using Loading Spinner, There’s Something Better](https://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
 - [WebGL, React, and no JavaScript](https://martin.varela.fi/2019/11/01/webgl-react-and-no-javascript/)
