@@ -41,6 +41,7 @@ FrontEnd Knowledge
 - :star:[HTML CheatSheet](https://htmlcheatsheet.com/)
   
 ## CSS  
+- [Fundamental CSS for Beginners](https://levelup.gitconnected.com/fundamental-css-for-beginners-f44e8b9a5da5)
 - [Mozilla Developer: CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [CSS: The Programmer’s Guide to the Stylesheet](https://blog.prototypr.io/the-programmers-guide-to-the-stylesheet-13f2dce47429)
 - [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
@@ -123,8 +124,9 @@ FrontEnd Knowledge
 
 ### Medium
 - [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
+- [A Simple Introduction to the ES6 Map Data Structure in JavaScript](https://levelup.gitconnected.com/simple-introduction-to-map-in-javascript-6786034f9154)
+- [An Overview of Array Methods in JavaScript](https://levelup.gitconnected.com/a-basic-introduction-to-array-for-naive-javascript-developers-550dc2839f27)
 - [Comparing Objects in JavaScript](https://medium.com/javascript-in-plain-english/comparing-objects-in-javascript-ce2dc1f3de7f)
-- [Functional Programming in JavaScript: Introduction and Practical Examples](https://medium.com/better-programming/functional-programming-in-javascript-introduction-and-practical-examples-d268e44395b2)
 - [Serialization and Deserialization](https://medium.com/better-programming/serialization-and-deserialization-ba12fc3fbe23)
 - [Why You Shouldn’t Use JSON.stringify to Compare Objects in JavaScript](https://medium.com/better-programming/why-you-shouldnt-use-json-stringify-to-compare-objects-in-javascript-c9a16b7331e)
 - [Why You Should Learn JavaScript Principles First (Not the Hottest Frameworks)](https://medium.com/better-programming/why-you-should-learn-javascript-principles-first-not-the-hottest-frameworks-66d4d56d0382)
@@ -155,6 +157,7 @@ FrontEnd Knowledge
 - [An introduction to Functional Programming with JavaScript](https://flaviocopes.com/javascript-functional-programming/)
 - [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
 - [Pure functions in JavaScript](http://willtaylor.blog/javascript-pure-functions/)
+- [Functional Programming in JavaScript: Introduction and Practical Examples](https://medium.com/better-programming/functional-programming-in-javascript-introduction-and-practical-examples-d268e44395b2)
 
 ### Spread Operator
 - [Sintaxe de Espalhamento (Spread syntax) ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
@@ -162,6 +165,7 @@ FrontEnd Knowledge
 
 ### Destructuring assignment
 - [Mozzila: Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [Master Destructing Values in JavaScript](https://levelup.gitconnected.com/mastering-destructing-values-in-javascript-68a4e3b7b79)
 
 ### Design Patterns
 - [JavaScript 101: Design Patterns](https://www.codespot.org/javascript-101-design-patterns/)
