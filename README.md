@@ -188,6 +188,8 @@ FrontEnd Knowledge
 - [CSS Styles in React](https://nordschool.com/css-in-react/)
 - [Adicione o React a um site](https://pt-br.reactjs.org/docs/add-react-to-a-website.html)
 - [Why we use setState with function?](https://en.reddit.com/r/reactjs/comments/duvq53/why_we_use_setstate_with_function/)
+- [8 no-Flux strategies for React component communication](https://www.javascriptstuff.com/component-communication/)
+- [React: Communication Between Components](https://blog.bitsrc.io/react-communication-between-components-c0cfccfa996a)
 
 ### Components
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
