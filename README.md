@@ -188,11 +188,20 @@ FrontEnd Knowledge
 - [CSS Styles in React](https://nordschool.com/css-in-react/)
 - [Adicione o React a um site](https://pt-br.reactjs.org/docs/add-react-to-a-website.html)
 - [Why we use setState with function?](https://en.reddit.com/r/reactjs/comments/duvq53/why_we_use_setstate_with_function/)
+- [React, JSX, ES Module Imports And Dynamic Imports In Browser Without Using Webpack](https://hackernoon.com/react-jsx-es-module-imports-dynamic-too-in-browser-without-webpack-kr1n36kb)
+- [Where Should I Integrate API Calls In My React App?](https://medium.com/better-programming/where-should-i-integrate-api-calls-in-my-react-app-2fb1f9ce022d)
+- [3 Lessons Learned From Building My First React App](https://medium.com/swlh/3-lessons-learned-from-building-my-first-react-app-916f443b6862)
+
+
+### Components Communication
+- [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
 - [8 no-Flux strategies for React component communication](https://www.javascriptstuff.com/component-communication/)
 - [React: Communication Between Components](https://blog.bitsrc.io/react-communication-between-components-c0cfccfa996a)
+- [The Combination of React and D3](https://medium.com/swlh/combination-of-react-and-d3-1fb07b00fb55)
+- [React and D3 — Axis](https://medium.com/better-programming/react-and-d3-axis-e8952d8d31e6)
 
 ### Components
-- [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
+- [How to Use Component Composition to Create a Flexible Compound Component in React](https://levelup.gitconnected.com/how-to-use-component-composition-to-create-a-flexible-compound-component-in-react-4024660b9613)
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
 - [Stop Using Loading Spinner, There’s Something Better](https://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
 - [WebGL, React, and no JavaScript](https://martin.varela.fi/2019/11/01/webgl-react-and-no-javascript/)
@@ -208,6 +217,7 @@ FrontEnd Knowledge
 - [A Tale of Two Buttons (css parametrizado) ](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f)
 - [BEM - Block Element Modifier](http://getbem.com/introduction/)
 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
+- [Rethinking the Front-end](https://levelup.gitconnected.com/rethinking-the-front-end-c0d86ccbbfe7)
 
 ## Accessibility
 - [What I’ve learned about accessibility in SPAs](https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas/)
