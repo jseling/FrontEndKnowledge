@@ -178,12 +178,7 @@ FrontEnd Knowledge
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
 - [Passo a passo: Introdução ao React](https://pt-br.reactjs.org/docs/hello-world.html)
 - [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
-- https://hakaselogs.me/2017-12-05/react-native-vs-ionic
-- https://hakaselogs.me/2017-09-11/learning-react-day-1
-- https://hakaselogs.me/2017-09-12/learning-react-day-2
-- https://dev.to/aspittel/a-complete-beginners-guide-to-react-2cl6
-- https://dev.to/liveedutv/3-best-practices-for-working-with-react-components-3j44
-- http://blog.matheuscastiglioni.com.br/referenciando-componentes-no-react
+- [A Complete Beginner's Guide to React](https://dev.to/aspittel/a-complete-beginners-guide-to-react-2cl6)
 - [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 - [Hello, React! - A Beginner's Setup Tutorial](http://aspiringcraftsman.com/2017/05/25/hello-react-a-beginners-setup-tutorial/)
 - :star:[Introduction to React](https://flaviocopes.com/react/)
@@ -196,7 +191,6 @@ FrontEnd Knowledge
 - [Where Should I Integrate API Calls In My React App?](https://medium.com/better-programming/where-should-i-integrate-api-calls-in-my-react-app-2fb1f9ce022d)
 - [3 Lessons Learned From Building My First React App](https://medium.com/swlh/3-lessons-learned-from-building-my-first-react-app-916f443b6862)
 
-
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
 - [8 no-Flux strategies for React component communication](https://www.javascriptstuff.com/component-communication/)
@@ -204,8 +198,12 @@ FrontEnd Knowledge
 - [The Combination of React and D3](https://medium.com/swlh/combination-of-react-and-d3-1fb07b00fb55)
 - [React and D3 — Axis](https://medium.com/better-programming/react-and-d3-axis-e8952d8d31e6)
 
-### Components
+### Components Creation
+- [3 Best Practices for Working With React Components](https://dev.to/liveedutv/3-best-practices-for-working-with-react-components-3j44)
+- [Referenciando Componentes No React](http://blog.matheuscastiglioni.com.br/referenciando-componentes-no-react)
 - [How to Use Component Composition to Create a Flexible Compound Component in React](https://levelup.gitconnected.com/how-to-use-component-composition-to-create-a-flexible-compound-component-in-react-4024660b9613)
+
+### Specific Components
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
 - [Stop Using Loading Spinner, There’s Something Better](https://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
 - [WebGL, React, and no JavaScript](https://martin.varela.fi/2019/11/01/webgl-react-and-no-javascript/)
