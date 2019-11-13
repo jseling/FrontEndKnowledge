@@ -10,8 +10,6 @@ FrontEnd Knowledge
 - [O que o mercado de Front-End espera de você?](https://www.linkedin.com/pulse/o-que-mercado-de-front-end-espera-voc%25C3%25AA-daniel-xavier)
 - https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10
 - [don’t get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
-- [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39)
-- [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
 - [What Are 7 Principles Of Design?](https://codersera.com/blog/what-are-7-principles-of-design/)
 - [A free guide to HTML5 <head> elements](https://htmlhead.dev/)
 - [don’t get clever with login forms](https://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
@@ -227,6 +225,9 @@ FrontEnd Knowledge
 - [BEM - Block Element Modifier](http://getbem.com/introduction/)
 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
 - [Rethinking the Front-end](https://levelup.gitconnected.com/rethinking-the-front-end-c0d86ccbbfe7)
+- [Micro Frontend Architecture: Replacing a Monolith from the Inside Out](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
+- [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39)
+- [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
 
 ## Accessibility
 - [What I’ve learned about accessibility in SPAs](https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas/)
