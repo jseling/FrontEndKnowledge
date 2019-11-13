@@ -83,7 +83,6 @@ FrontEnd Knowledge
 - [Documentação oficial](https://getbootstrap.com.br/docs/4.1/getting-started/introduction/)
   
 ## JavaScript
-- [JavaScript Async/Await 101](https://hakaselogs.me/2017-08-12/javascript-async/await-101/)
 - [Minecraft Clone: ThreeJS, ReactJS, GraphQL and NodeJS](https://github.com/ian13456/mc.js)
 - [Why is modern web development so complicated? A long yet hasty explanation: Part 1!](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
@@ -123,9 +122,7 @@ FrontEnd Knowledge
 - [10/10 Class - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=ITdr-Z27UCE&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=10)
 
 ### Medium
-- [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 - [A Simple Introduction to the ES6 Map Data Structure in JavaScript](https://levelup.gitconnected.com/simple-introduction-to-map-in-javascript-6786034f9154)
-- [An Overview of Array Methods in JavaScript](https://levelup.gitconnected.com/a-basic-introduction-to-array-for-naive-javascript-developers-550dc2839f27)
 - [Comparing Objects in JavaScript](https://medium.com/javascript-in-plain-english/comparing-objects-in-javascript-ce2dc1f3de7f)
 - [Serialization and Deserialization](https://medium.com/better-programming/serialization-and-deserialization-ba12fc3fbe23)
 - [Why You Shouldn’t Use JSON.stringify to Compare Objects in JavaScript](https://medium.com/better-programming/why-you-shouldnt-use-json-stringify-to-compare-objects-in-javascript-c9a16b7331e)
@@ -138,6 +135,7 @@ FrontEnd Knowledge
 - [Using Hooks for Lazy-Loading Images in React](https://medium.com/better-programming/image-lazy-loading-in-react-intersection-observer-a9ae912ddafe)
 
 ### Parallel Programming
+- [JavaScript Async/Await 101](https://hakaselogs.me/2017-08-12/javascript-async/await-101/)
 - [Writing Asynchronous Tasks In Modern JavaScript](https://www.smashingmagazine.com/2019/10/asynchronous-tasks-modern-javascript/)
 - [Async JavaScript Part 1: The Callback](https://www.codespot.org/async-javascript-part-1-the-callback/)
 - [Async JavaScript Part 2: Promises](https://www.codespot.org/async-javascript-part-2-promises/)
@@ -159,9 +157,15 @@ FrontEnd Knowledge
 - [Pure functions in JavaScript](http://willtaylor.blog/javascript-pure-functions/)
 - [Functional Programming in JavaScript: Introduction and Practical Examples](https://medium.com/better-programming/functional-programming-in-javascript-introduction-and-practical-examples-d268e44395b2)
 
-### Spread Operator
+### Spread & Rest Operator
 - [Sintaxe de Espalhamento (Spread syntax) ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [Spread operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+- [Rest and Spread operator: Three dots that changed JavaScript](https://www.wisdomgeek.com/development/web-development/rest-and-spread-operator-three-dots-that-changed-javascript/)
+
+### Array methods (Map, Filter, Reduce, etc)
+- [Array Methods in Javascript that makes development easier](https://cloudnweb.dev/2019/11/array-methods-in-javascript-that-makes-development-easier/)
+- [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
+- [An Overview of Array Methods in JavaScript](https://levelup.gitconnected.com/a-basic-introduction-to-array-for-naive-javascript-developers-550dc2839f27)
 
 ### Destructuring assignment
 - [Mozzila: Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
