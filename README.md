@@ -37,6 +37,7 @@ FrontEnd Knowledge
 - [Mozzila: Elementos HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 - [All HTML5 Tags](https://www.html-5-tutorial.com/all-html-tags.htm)
 - :star:[HTML CheatSheet](https://htmlcheatsheet.com/)
+- :star:[A collection of bad practices in HTML, copied from real websites.](https://www.htmhell.dev/)
   
 ## CSS  
 - [Fundamental CSS for Beginners](https://levelup.gitconnected.com/fundamental-css-for-beginners-f44e8b9a5da5)
@@ -52,6 +53,7 @@ FrontEnd Knowledge
 - :star:[Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - :art:[Pure CSS – Lace](https://css-tricks.com/diana-smiths-pure-css-artwork-lace/)
 - :art:[Pac-Man… in CSS!](https://css-tricks.com/pac-man-in-css/)
+- [Everyone uses CSS frameworks](https://medium.com/@guerriero_se/everyone-uses-css-frameworks-f99a07ad7d50)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
@@ -234,6 +236,7 @@ FrontEnd Knowledge
 ## Accessibility
 - [What I’ve learned about accessibility in SPAs](https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas/)
 - [Creating Online Environments That Work Well For Older Users](https://www.smashingmagazine.com/2019/11/online-environments-older-users/)
+- [Accessibility checklist](https://www.benjystanton.co.uk/blog/accessibility-checklist/)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
