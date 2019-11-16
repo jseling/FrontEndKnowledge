@@ -4,6 +4,7 @@ FrontEnd Knowledge
 ## Sites
 - [CSS Tricks](https://css-tricks.com/)
 - [Philip Walton](https://philipwalton.com/)
+- [Online Tutorials](https://www.tutorialslogic.com/)
 
 ## General
 - [A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
