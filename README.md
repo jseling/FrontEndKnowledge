@@ -185,6 +185,7 @@ FrontEnd Knowledge
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
+- :star:[Build your own React](https://pomb.us/build-your-own-react/)
 - [Passo a passo: Introdução ao React](https://pt-br.reactjs.org/docs/hello-world.html)
 - [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 - [A Complete Beginner's Guide to React](https://dev.to/aspittel/a-complete-beginners-guide-to-react-2cl6)
