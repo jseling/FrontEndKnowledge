@@ -204,6 +204,8 @@ FrontEnd Knowledge
 - [3 Lessons Learned From Building My First React App](https://medium.com/swlh/3-lessons-learned-from-building-my-first-react-app-916f443b6862)
 - [How to apply SOLID principles in React applications](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
 - [React.Org: Design Principles](https://reactjs.org/docs/design-principles.html)
+- [HIGHER ORDER COMPONENT](http://www.derekgarnett.com/blog/5dd369fef5d0d90016da6747)
+- [The Beginner’s Guide to Creating an Interactive List With React](https://medium.com/better-programming/the-beginners-guide-to-creating-an-interactive-list-with-react-28c8af880f35)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
