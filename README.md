@@ -202,6 +202,8 @@ FrontEnd Knowledge
 - [React, JSX, ES Module Imports And Dynamic Imports In Browser Without Using Webpack](https://hackernoon.com/react-jsx-es-module-imports-dynamic-too-in-browser-without-webpack-kr1n36kb)
 - [Where Should I Integrate API Calls In My React App?](https://medium.com/better-programming/where-should-i-integrate-api-calls-in-my-react-app-2fb1f9ce022d)
 - [3 Lessons Learned From Building My First React App](https://medium.com/swlh/3-lessons-learned-from-building-my-first-react-app-916f443b6862)
+- [How to apply SOLID principles in React applications](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
+- [React.Org: Design Principles](https://reactjs.org/docs/design-principles.html)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
