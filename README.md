@@ -242,6 +242,7 @@ FrontEnd Knowledge
 - [What I’ve learned about accessibility in SPAs](https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas/)
 - [Creating Online Environments That Work Well For Older Users](https://www.smashingmagazine.com/2019/11/online-environments-older-users/)
 - [Accessibility checklist](https://www.benjystanton.co.uk/blog/accessibility-checklist/)
+- [ARIA: Accessible Rich Internet Applications](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
