@@ -55,6 +55,7 @@ FrontEnd Knowledge
 - :art:[Pure CSS – Lace](https://css-tricks.com/diana-smiths-pure-css-artwork-lace/)
 - :art:[Pac-Man… in CSS!](https://css-tricks.com/pac-man-in-css/)
 - [Everyone uses CSS frameworks](https://medium.com/@guerriero_se/everyone-uses-css-frameworks-f99a07ad7d50)
+- [The perils of functional CSS](https://www.browserlondon.com/blog/2019/06/10/functional-css-perils/)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
