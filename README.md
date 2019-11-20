@@ -114,6 +114,8 @@ FrontEnd Knowledge
 - [The JS library distribution dilemma: NPM or URL?](https://medium.com/thron-tech/the-js-library-distribution-dilemma-npm-or-url-c63aa5842a4c)
 - [JavaScript Errors: An Exceptional History](https://blog.appsignal.com/2019/10/17/javascript-errors-an-exceptional-history.html)
 - [JavaScript Errors: An Exceptional History - Part II](https://blog.appsignal.com/2019/11/20/javascript-errors-an-exceptional-history-part-ii.html)
+- [Closures, Private Data, and Inheritance in JavaScript](https://levelup.gitconnected.com/inheritance-private-data-and-closures-in-javascript-5618bc78ebf2)
+- [A Guide to JSON and How It’s Handled in JavaScript](https://levelup.gitconnected.com/manipulating-json-strings-in-javascript-5c9423841fa3)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -172,6 +174,7 @@ FrontEnd Knowledge
 - [Array Methods in Javascript that makes development easier](https://cloudnweb.dev/2019/11/array-methods-in-javascript-that-makes-development-easier/)
 - [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 - [An Overview of Array Methods in JavaScript](https://levelup.gitconnected.com/a-basic-introduction-to-array-for-naive-javascript-developers-550dc2839f27)
+- [Different ways to remove elements from an array in JavaScript](https://levelup.gitconnected.com/different-ways-to-remove-elements-from-an-array-in-javascript-fa603d065c58)
 
 ### Destructuring assignment
 - [Mozzila: Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
