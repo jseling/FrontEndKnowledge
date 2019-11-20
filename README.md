@@ -63,6 +63,7 @@ FrontEnd Knowledge
 - [Using Media Queries in CSS](https://medium.com/swlh/using-media-queries-in-css-1d7aa8d30dcf)
 
 ### Flexbox
+- :star:[Flex Layout Editor](http://www.csstutorial.org/flex-both.html?v=css)
 - [Learn Flexbox for free](https://scrimba.com/g/gflexbox)
 - [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/#intro)
 - [CSS tricks: justify-content](https://css-tricks.com/almanac/properties/j/justify-content/)
@@ -110,6 +111,8 @@ FrontEnd Knowledge
 - [Responsible JavaScript: Part I](https://alistapart.com/article/responsible-javascript-part-1/)
 - [Responsible JavaScript: Part II](https://alistapart.com/article/responsible-javascript-part-2/)
 - [The JS library distribution dilemma: NPM or URL?](https://medium.com/thron-tech/the-js-library-distribution-dilemma-npm-or-url-c63aa5842a4c)
+- [JavaScript Errors: An Exceptional History](https://blog.appsignal.com/2019/10/17/javascript-errors-an-exceptional-history.html)
+- [JavaScript Errors: An Exceptional History - Part II](https://blog.appsignal.com/2019/11/20/javascript-errors-an-exceptional-history-part-ii.html)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -252,3 +255,4 @@ FrontEnd Knowledge
 - [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
 - [FreePascal WebAssembly](https://lists.freepascal.org/pipermail/fpc-pascal/2019-September/056848.html)
 - [WASM Codelabs intro](https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0)
+
