@@ -9,7 +9,7 @@ FrontEnd Knowledge
 ## General
 - [A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
 - [O que o mercado de Front-End espera de você?](https://www.linkedin.com/pulse/o-que-mercado-de-front-end-espera-voc%25C3%25AA-daniel-xavier)
-- https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10
+- [How browser rendering works — behind the scenes](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10)
 - [don’t get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 - [What Are 7 Principles Of Design?](https://codersera.com/blog/what-are-7-principles-of-design/)
 - [A free guide to HTML5 <head> elements](https://htmlhead.dev/)
