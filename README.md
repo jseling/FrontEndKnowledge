@@ -214,6 +214,8 @@ FrontEnd Knowledge
 - [React.Org: Design Principles](https://reactjs.org/docs/design-principles.html)
 - [HIGHER ORDER COMPONENT](http://www.derekgarnett.com/blog/5dd369fef5d0d90016da6747)
 - [The Beginner’s Guide to Creating an Interactive List With React](https://medium.com/better-programming/the-beginners-guide-to-creating-an-interactive-list-with-react-28c8af880f35)
+- [Why You Can't Return Parallel JSX Elements. The Hack!](https://scotch.io/tutorials/why-you-cant-return-parallel-jsx-elements-the-hack)
+- [7 Ways to Implement Conditional Rendering in React Applications](https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
