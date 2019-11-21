@@ -116,6 +116,7 @@ FrontEnd Knowledge
 - [JavaScript Errors: An Exceptional History - Part II](https://blog.appsignal.com/2019/11/20/javascript-errors-an-exceptional-history-part-ii.html)
 - [Closures, Private Data, and Inheritance in JavaScript](https://levelup.gitconnected.com/inheritance-private-data-and-closures-in-javascript-5618bc78ebf2)
 - [A Guide to JSON and How It’s Handled in JavaScript](https://levelup.gitconnected.com/manipulating-json-strings-in-javascript-5c9423841fa3)
+- [How to Iterate Over Javascript Arrays - Performance Comparison](https://gists.cwidanage.com/2019/11/how-to-iterate-over-javascript-arrays.html)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
