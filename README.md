@@ -194,6 +194,7 @@ FrontEnd Knowledge
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
+- :star:[Getting Started with React (2019 Edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
 - :star:[Build your own React](https://pomb.us/build-your-own-react/)
 - [Passo a passo: Introdução ao React](https://pt-br.reactjs.org/docs/hello-world.html)
 - [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
