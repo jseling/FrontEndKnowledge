@@ -5,6 +5,7 @@ FrontEnd Knowledge
 - [CSS Tricks](https://css-tricks.com/)
 - [Philip Walton](https://philipwalton.com/)
 - [Online Tutorials](https://www.tutorialslogic.com/)
+- [BrasilJS](https://braziljs.org/artigos/)
 
 ## General
 - [A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
@@ -235,6 +236,7 @@ FrontEnd Knowledge
 - [React: Fetch API, React.Suspense e react-cache](https://medium.com/@oieduardorabelo/react-fetch-api-com-react-suspense-e-react-cache-16e8949e994)
 - [How to fetch data in React](https://www.robinwieruch.de/react-fetching-data)
 - [Mozzila: Usando Fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch)
+- [Fetch API e o JavaScript](https://braziljs.org/artigos/fetch-api-e-o-javascript/)
 
 ### Specific Components
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
