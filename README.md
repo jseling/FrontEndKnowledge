@@ -231,6 +231,9 @@ FrontEnd Knowledge
 - [Referenciando Componentes No React](http://blog.matheuscastiglioni.com.br/referenciando-componentes-no-react)
 - [How to Use Component Composition to Create a Flexible Compound Component in React](https://levelup.gitconnected.com/how-to-use-component-composition-to-create-a-flexible-compound-component-in-react-4024660b9613)
 
+### Fetch API
+- [React: Fetch API, React.Suspense e react-cache](https://medium.com/@oieduardorabelo/react-fetch-api-com-react-suspense-e-react-cache-16e8949e994)
+
 ### Specific Components
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
 - [Stop Using Loading Spinner, There’s Something Better](https://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
