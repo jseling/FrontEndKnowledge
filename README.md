@@ -24,6 +24,7 @@ FrontEnd Knowledge
  
 ## Livros
   - :book:[PacktPub: Modern JavaScript Web Development Cookbook](https://subscription.packtpub.com/book/web_development/9781788992749)
+ - [Mastering React Test-Driven Development](https://subscription.packtpub.com/book/web_development/9781789133417) 
   
 ## CanIUse
 - [Caniuse.com](https://caniuse.com/)
