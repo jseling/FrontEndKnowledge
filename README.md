@@ -59,6 +59,9 @@ FrontEnd Knowledge
 - [Everyone uses CSS frameworks](https://medium.com/@guerriero_se/everyone-uses-css-frameworks-f99a07ad7d50)
 - [The perils of functional CSS](https://www.browserlondon.com/blog/2019/06/10/functional-css-perils/)
 - :star:[CSS position explained](https://www.pixelstech.net/article/1574470895-CSS-position-explained)
+- [CSS Overflow Property Utilization](https://www.pixelstech.net/article/1303386659-CSS-Overflow-Property-Utilization)
+- [CSS DIV position analysis](https://www.pixelstech.net/article/1359451437-CSS-DIV-position-analysis)
+- [Ways to make elements in HTML center aligned horizontally](https://www.pixelstech.net/article/1342029300-Ways-to-make-elements-in-HTML-center-aligned-horizontally)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
@@ -149,6 +152,7 @@ FrontEnd Knowledge
 
 ### Parallel Programming
 - [JavaScript Async/Await 101](https://hakaselogs.me/2017-08-12/javascript-async/await-101/)
+- [The evolving history of asynchronous operation in JavaScript](https://www.pixelstech.net/article/1573308283-The-evolving-history-of-asynchronous-operation-in-JavaScript)
 - [Writing Asynchronous Tasks In Modern JavaScript](https://www.smashingmagazine.com/2019/10/asynchronous-tasks-modern-javascript/)
 - [Async JavaScript Part 1: The Callback](https://www.codespot.org/async-javascript-part-1-the-callback/)
 - [Async JavaScript Part 2: Promises](https://www.codespot.org/async-javascript-part-2-promises/)
