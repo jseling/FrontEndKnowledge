@@ -256,6 +256,9 @@ FrontEnd Knowledge
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
 
+## GraphQL
+- [GraphQL query language by examples](https://medium.com/beautiful-code-smart-design-by-10clouds/graphql-by-examples-rest-dev-perspective-386dc86b790e)
+
 ## Frontend patterns
 - [A Tale of Two Buttons (css parametrizado) ](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f)
 - [BEM - Block Element Modifier](http://getbem.com/introduction/)
