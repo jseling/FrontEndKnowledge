@@ -256,6 +256,9 @@ FrontEnd Knowledge
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
 
+## SVG
+- [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
+
 ## GraphQL
 - [GraphQL query language by examples](https://medium.com/beautiful-code-smart-design-by-10clouds/graphql-by-examples-rest-dev-perspective-386dc86b790e)
 
