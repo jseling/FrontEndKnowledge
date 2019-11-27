@@ -128,6 +128,8 @@ FrontEnd Knowledge
 - [A Guide to JSON and How It’s Handled in JavaScript](https://levelup.gitconnected.com/manipulating-json-strings-in-javascript-5c9423841fa3)
 - [How to Iterate Over Javascript Arrays - Performance Comparison](https://gists.cwidanage.com/2019/11/how-to-iterate-over-javascript-arrays.html)
 - [How To Convert Objects to Arrays and Vice Versa in JavaScript](https://medium.com/better-programming/how-to-convert-objects-to-arrays-and-vice-versa-in-javascript-7776b5843948)
+- :star:[Javascript tutorials](http://zetcode.com/all/#js)
+- [Lodash tutorial](http://zetcode.com/javascript/lodash/)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
