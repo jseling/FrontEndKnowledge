@@ -206,6 +206,7 @@ FrontEnd Knowledge
 - [D3.js: Library for visualizing data](https://github.com/d3/d3/wiki)
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
 - [Bar Chart Race with D3](https://observablehq.com/@d3/bar-chart-race-explained)
+- [JavaScript library for creating sketchy/hand-drawn styled charts](https://github.com/jwilber/roughViz)
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
