@@ -62,6 +62,8 @@ FrontEnd Knowledge
 - [CSS Overflow Property Utilization](https://www.pixelstech.net/article/1303386659-CSS-Overflow-Property-Utilization)
 - [CSS DIV position analysis](https://www.pixelstech.net/article/1359451437-CSS-DIV-position-analysis)
 - [Ways to make elements in HTML center aligned horizontally](https://www.pixelstech.net/article/1342029300-Ways-to-make-elements-in-HTML-center-aligned-horizontally)
+- [5 Simple Tips to Keep Your CSS Stylesheets Nice and Clean](https://hackernoon.com/5-simple-tips-to-keep-your-css-stylesheets-nice-and-clean-pv1p2gde)
+
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
@@ -83,10 +85,12 @@ FrontEnd Knowledge
 - [Desenvolvimento para web: Flexbox](https://desenvolvimentoparaweb.com/css/flexbox/)
 - [Material UI: Flexbox](https://material-ui.com/system/flexbox/)
 - :star:[Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+- :star:[The Thought Process Behind a Flexbox Layout](https://css-tricks.com/the-thought-process-behind-a-flexbox-layout/)
 
 ### Grid
 - [CSS Grid – Um Guia Interativo (Parte 1 – Containers)](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-1-containers/)
 - [CSS Grid – Um Guia Interativo (Parte 2 – Itens)](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-2-itens/)
+- [CSS Grid is a Grid Framework](https://hackernoon.com/css-grid-is-a-grid-framework-ups324z)  
   
 ### Bootstrap
 - [Documentação oficial](https://getbootstrap.com.br/docs/4.1/getting-started/introduction/)
