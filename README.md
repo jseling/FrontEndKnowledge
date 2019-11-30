@@ -258,6 +258,10 @@ FrontEnd Knowledge
 - [WebGL, React, and no JavaScript](https://martin.varela.fi/2019/11/01/webgl-react-and-no-javascript/)
 - [A Collection of most useful and common ReactJS Libraries/Components](https://applibslist.xyz/)
 
+### React Router
+- [Oficial Training](https://reacttraining.com/react-router/web/guides/quick-start)
+- [Roteamento no React com os poderes do React Router v4](https://medium.com/collabcode/roteamento-no-react-com-os-poderes-do-react-router-v4-fbc191b9937d)
+
 ### Hooks
 - [Clean Components with React Hooks](https://levelup.gitconnected.com/clean-components-with-react-hooks-4cfef201176e)
 - [Introduction to React Hooks](https://dzone.com/articles/introduction-to-react-hooks)
