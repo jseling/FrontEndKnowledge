@@ -1,5 +1,5 @@
 # FrontEndKnowledge
-FrontEnd Knowledge
+FrontEnd Knowledgex
 
 ## Sites
 - [CSS Tricks](https://css-tricks.com/)
