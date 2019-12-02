@@ -186,11 +186,12 @@ FrontEnd Knowledge
 - [Spread operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator)
 - [Rest and Spread operator: Three dots that changed JavaScript](https://www.wisdomgeek.com/development/web-development/rest-and-spread-operator-three-dots-that-changed-javascript/)
 
-### Array methods (Map, Filter, Reduce, etc)
+### Array methods (Map, Filter, Reduce, ForEach, Every, Some etc)
 - [Array Methods in Javascript that makes development easier](https://cloudnweb.dev/2019/11/array-methods-in-javascript-that-makes-development-easier/)
 - [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 - [An Overview of Array Methods in JavaScript](https://levelup.gitconnected.com/a-basic-introduction-to-array-for-naive-javascript-developers-550dc2839f27)
 - [Different ways to remove elements from an array in JavaScript](https://levelup.gitconnected.com/different-ways-to-remove-elements-from-an-array-in-javascript-fa603d065c58)
+- [JavaScript Arrays: Some(), Every(), and forEach()](https://levelup.gitconnected.com/javascript-array-some-vs-every-vs-foreach-knowledge-scoops-81dfe43369c6)
 
 ### Destructuring assignment
 - [Mozzila: Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
@@ -209,6 +210,7 @@ FrontEnd Knowledge
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
 - [Bar Chart Race with D3](https://observablehq.com/@d3/bar-chart-race-explained)
 - [JavaScript library for creating sketchy/hand-drawn styled charts](https://github.com/jwilber/roughViz)
+- [Let’s Fake it: Random Data Generation With Node and Faker.js](https://dzone.com/articles/lets-fake-it-nodejs-random-data-generation)
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
