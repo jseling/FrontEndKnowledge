@@ -130,6 +130,7 @@ FrontEnd Knowledge
 - [How To Convert Objects to Arrays and Vice Versa in JavaScript](https://medium.com/better-programming/how-to-convert-objects-to-arrays-and-vice-versa-in-javascript-7776b5843948)
 - :star:[Javascript tutorials](http://zetcode.com/all/#js)
 - [Lodash tutorial](http://zetcode.com/javascript/lodash/)
+- [Javascript Christmas](https://javascript.christmas/)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -233,6 +234,7 @@ FrontEnd Knowledge
 - [The Beginner’s Guide to Creating an Interactive List With React](https://medium.com/better-programming/the-beginners-guide-to-creating-an-interactive-list-with-react-28c8af880f35)
 - [Why You Can't Return Parallel JSX Elements. The Hack!](https://scotch.io/tutorials/why-you-cant-return-parallel-jsx-elements-the-hack)
 - [7 Ways to Implement Conditional Rendering in React Applications](https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)
+- [React Christmas](https://react.christmas/)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
@@ -296,4 +298,5 @@ FrontEnd Knowledge
 - [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
 - [FreePascal WebAssembly](https://lists.freepascal.org/pipermail/fpc-pascal/2019-September/056848.html)
 - [WASM Codelabs intro](https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0)
+
 
