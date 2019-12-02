@@ -211,6 +211,7 @@ FrontEnd Knowledge
 - [Bar Chart Race with D3](https://observablehq.com/@d3/bar-chart-race-explained)
 - [JavaScript library for creating sketchy/hand-drawn styled charts](https://github.com/jwilber/roughViz)
 - [Let’s Fake it: Random Data Generation With Node and Faker.js](https://dzone.com/articles/lets-fake-it-nodejs-random-data-generation)
+- [Web scrapping with JS](https://beshaimakes.com/js-scrape-data)
 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
@@ -269,6 +270,7 @@ FrontEnd Knowledge
 ### Hooks
 - [Clean Components with React Hooks](https://levelup.gitconnected.com/clean-components-with-react-hooks-4cfef201176e)
 - [Introduction to React Hooks](https://dzone.com/articles/introduction-to-react-hooks)
+- [Playing around with React Hooks](https://medium.com/swlh/hooked-on-hooks-637f53ba9323)
 
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
