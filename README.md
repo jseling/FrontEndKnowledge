@@ -43,6 +43,7 @@ FrontEnd Knowledge
 - :star:[A collection of bad practices in HTML, copied from real websites.](https://www.htmhell.dev/)
   
 ## CSS  
+- [CSS: An Art, a Science, a Nightmare (Overview of CSS Concepts)](https://www.taniarascia.com/overview-of-css-concepts/)
 - [Fundamental CSS for Beginners](https://levelup.gitconnected.com/fundamental-css-for-beginners-f44e8b9a5da5)
 - [Mozilla Developer: CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [CSS: The Programmer’s Guide to the Stylesheet](https://blog.prototypr.io/the-programmers-guide-to-the-stylesheet-13f2dce47429)
