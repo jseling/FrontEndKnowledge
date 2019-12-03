@@ -194,6 +194,7 @@ FrontEnd Knowledge
 - [An Overview of Array Methods in JavaScript](https://levelup.gitconnected.com/a-basic-introduction-to-array-for-naive-javascript-developers-550dc2839f27)
 - [Different ways to remove elements from an array in JavaScript](https://levelup.gitconnected.com/different-ways-to-remove-elements-from-an-array-in-javascript-fa603d065c58)
 - [JavaScript Arrays: Some(), Every(), and forEach()](https://levelup.gitconnected.com/javascript-array-some-vs-every-vs-foreach-knowledge-scoops-81dfe43369c6)
+- [Removing duplicates from an array](https://javascript.christmas/2019/3)
 
 ### Destructuring assignment
 - [Mozzila: Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
