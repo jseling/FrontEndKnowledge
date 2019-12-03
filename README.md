@@ -166,6 +166,7 @@ FrontEnd Knowledge
 - [Async JavaScript Part 1: The Callback](https://www.codespot.org/async-javascript-part-1-the-callback/)
 - [Async JavaScript Part 2: Promises](https://www.codespot.org/async-javascript-part-2-promises/)
 - [Async JavaScript Part 3: Async/Await](https://www.codespot.org/async-javascript-part-3-async-await/)
+- [JavaScript Promise combinators: race, all, allSettled, any](https://www.wisdomgeek.com/development/web-development/javascript/javascript-promises-combinators-race-all-allsettled-any/)
 
 ### Object Oriented Programming
 - [A Guide to Object-Oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81)
