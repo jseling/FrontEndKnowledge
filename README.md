@@ -271,6 +271,9 @@ FrontEnd Knowledge
 - [Oficial Training](https://reacttraining.com/react-router/web/guides/quick-start)
 - [Roteamento no React com os poderes do React Router v4](https://medium.com/collabcode/roteamento-no-react-com-os-poderes-do-react-router-v4-fbc191b9937d)
 
+### Suspense
+- [Can you feel the Suspense?!](https://react.christmas/2019/5)
+
 ### Hooks
 - [Clean Components with React Hooks](https://levelup.gitconnected.com/clean-components-with-react-hooks-4cfef201176e)
 - [Introduction to React Hooks](https://dzone.com/articles/introduction-to-react-hooks)
