@@ -312,5 +312,7 @@ FrontEnd Knowledge
 - [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
 - [FreePascal WebAssembly](https://lists.freepascal.org/pipermail/fpc-pascal/2019-September/056848.html)
 - [WASM Codelabs intro](https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0)
+- [WebAssembly from Scratch / Part One](https://discerningdeveloper.com/2019/10/31/webassembly-from-scratch-part-one/)
+- [WebAssembly from Scratch / Part Two](https://discerningdeveloper.com/2019/11/11/webassembly-from-scratch-part-two/)
 
 
