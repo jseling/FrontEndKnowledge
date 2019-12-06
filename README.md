@@ -314,5 +314,7 @@ FrontEnd Knowledge
 - [WASM Codelabs intro](https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html#0)
 - [WebAssembly from Scratch / Part One](https://discerningdeveloper.com/2019/10/31/webassembly-from-scratch-part-one/)
 - [WebAssembly from Scratch / Part Two](https://discerningdeveloper.com/2019/11/11/webassembly-from-scratch-part-two/)
+- [Iniciando com WebAssembly - Parte 1](https://braziljs.org/blog/iniciando-com-webassembly-parte-1/)
+- [Iniciando com WebAssembly – Parte 2](https://braziljs.org/artigos/iniciando-com-webassembly-parte-2/)
 
 
