@@ -132,7 +132,8 @@ FrontEnd Knowledge
 - [How To Convert Objects to Arrays and Vice Versa in JavaScript](https://medium.com/better-programming/how-to-convert-objects-to-arrays-and-vice-versa-in-javascript-7776b5843948)
 - :star:[Javascript tutorials](http://zetcode.com/all/#js)
 - [Lodash tutorial](http://zetcode.com/javascript/lodash/)
-- [Javascript Christmas](https://javascript.christmas/)
+- :star:[Javascript Christmas](https://javascript.christmas/)
+- [A List of Interesting Operators in JavaScript](https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -242,6 +243,7 @@ FrontEnd Knowledge
 - [Why You Can't Return Parallel JSX Elements. The Hack!](https://scotch.io/tutorials/why-you-cant-return-parallel-jsx-elements-the-hack)
 - [7 Ways to Implement Conditional Rendering in React Applications](https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)
 - [React Christmas](https://react.christmas/)
+- [How To Implement Dark Mode in Your React App](https://medium.com/better-programming/how-to-implement-dark-mode-in-your-react-app-63c1a0c5e337)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
