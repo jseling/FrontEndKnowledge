@@ -282,6 +282,11 @@ FrontEnd Knowledge
 - [Introduction to React Hooks](https://dzone.com/articles/introduction-to-react-hooks)
 - [Playing around with React Hooks](https://medium.com/swlh/hooked-on-hooks-637f53ba9323)
 
+### Redux
+- [Redux.org](https://redux.js.org/)
+- [Gerenciando estado de componentes React com o Redux](https://medium.com/desenvolvimento-com-react/estado-componentes-react-redux-fcd899676f6a)
+- [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
 
