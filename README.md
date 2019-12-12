@@ -246,6 +246,7 @@ FrontEnd Knowledge
 - [7 Ways to Implement Conditional Rendering in React Applications](https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)
 - [React Christmas](https://react.christmas/)
 - [How To Implement Dark Mode in Your React App](https://medium.com/better-programming/how-to-implement-dark-mode-in-your-react-app-63c1a0c5e337)
+- :star:[Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
