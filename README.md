@@ -66,7 +66,7 @@ FrontEnd Knowledge
 - [Ways to make elements in HTML center aligned horizontally](https://www.pixelstech.net/article/1342029300-Ways-to-make-elements-in-HTML-center-aligned-horizontally)
 - [5 Simple Tips to Keep Your CSS Stylesheets Nice and Clean](https://hackernoon.com/5-simple-tips-to-keep-your-css-stylesheets-nice-and-clean-pv1p2gde)
 - [CSS Layout: a collection of popular layouts and patterns made with CSS](https://csslayout.io/)
-
+- [Why CSS HSL Colors are Better!](https://medium.com/@elad/why-css-hsl-colors-are-better-83b1e0b6eead)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
