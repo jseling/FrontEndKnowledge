@@ -210,6 +210,7 @@ FrontEnd Knowledge
 ## Frameworks
 - [Build your own React in 90 lines of JavaScript](https://dev.to/ameerthehacker/build-your-own-react-in-90-lines-of-javascript-1je2)
 - [Didact: a DIY guide to build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
 ## Librarys
 - [D3.js: Library for visualizing data](https://github.com/d3/d3/wiki)
