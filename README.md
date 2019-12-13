@@ -135,6 +135,7 @@ FrontEnd Knowledge
 - [Lodash tutorial](http://zetcode.com/javascript/lodash/)
 - :star:[Javascript Christmas](https://javascript.christmas/)
 - [A List of Interesting Operators in JavaScript](https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9)
+- :book:[Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
