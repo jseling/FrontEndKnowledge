@@ -66,7 +66,7 @@
 - [5 Simple Tips to Keep Your CSS Stylesheets Nice and Clean](https://hackernoon.com/5-simple-tips-to-keep-your-css-stylesheets-nice-and-clean-pv1p2gde)
 - [CSS Layout: a collection of popular layouts and patterns made with CSS](https://csslayout.io/)
 - [Why CSS HSL Colors are Better!](https://medium.com/@elad/why-css-hsl-colors-are-better-83b1e0b6eead)
-
+- :star:[Curated library of colors and fonts for Web Developers & Digital Designers.](https://www.colorsandfonts.com/)
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
 - [Mozilla: Usando Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries)
