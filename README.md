@@ -88,6 +88,7 @@
 - [Material UI: Flexbox](https://material-ui.com/system/flexbox/)
 - :star:[Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 - :star:[The Thought Process Behind a Flexbox Layout](https://css-tricks.com/the-thought-process-behind-a-flexbox-layout/)
+- [Coping with flexbox](https://kgrz.io/coping-with-flexbox.html)
 
 ### Grid
 - [CSS Grid – Um Guia Interativo (Parte 1 – Containers)](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-1-containers/)
