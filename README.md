@@ -328,6 +328,10 @@
 - [[AskJS] Question regarding building video recorder for long videos](https://en.reddit.com/r/javascript/comments/e9g2m1/askjs_question_regarding_building_video_recorder/)
 - [MediaRecorder.ondataavailable](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder/ondataavailable)
 
+## Design
+- [Skeuomorphic Design — A controversial UX approach that is making a comeback](https://medium.muz.li/skeuomorphic-design-a-controversial-ux-approach-that-is-making-a-comeback-a0b6e93eb4bb)
+- [Walkie Talkie App- skeumorph](https://dribbble.com/shots/8262085-Walkie-Talkie-App-skeumorph)
+
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
 - [What languages can be compiled to WebAssembly (or wasm)?](https://stackoverflow.com/questions/43540878/what-languages-can-be-compiled-to-webassembly-or-wasm/43585437#43585437)
