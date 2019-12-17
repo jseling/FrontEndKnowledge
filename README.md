@@ -68,6 +68,7 @@
 - [Why CSS HSL Colors are Better!](https://medium.com/@elad/why-css-hsl-colors-are-better-83b1e0b6eead)
 - :star:[Curated library of colors and fonts for Web Developers & Digital Designers.](https://www.colorsandfonts.com/)
 - :star:[CSS layout patterns](https://csslayout.io/patterns/)
+- [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
