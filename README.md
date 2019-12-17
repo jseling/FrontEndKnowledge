@@ -331,6 +331,7 @@
 ## Design
 - [Skeuomorphic Design — A controversial UX approach that is making a comeback](https://medium.muz.li/skeuomorphic-design-a-controversial-ux-approach-that-is-making-a-comeback-a0b6e93eb4bb)
 - [Walkie Talkie App- skeumorph](https://dribbble.com/shots/8262085-Walkie-Talkie-App-skeumorph)
+- [10 Rules of Dashboard Design](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
