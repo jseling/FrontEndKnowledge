@@ -138,6 +138,7 @@
 - :star:[Javascript Christmas](https://javascript.christmas/)
 - [A List of Interesting Operators in JavaScript](https://medium.com/better-programming/a-list-of-interesting-operators-in-javascript-22fdacfbbce9)
 - :book:[Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/)
+- [5 things you don’t know about try-catch-finally in JavaScript](https://levelup.gitconnected.com/5-things-you-dont-know-about-try-catch-finally-in-javascript-5d661996d77c)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -223,7 +224,8 @@
 - [JavaScript library for creating sketchy/hand-drawn styled charts](https://github.com/jwilber/roughViz)
 - [Let’s Fake it: Random Data Generation With Node and Faker.js](https://dzone.com/articles/lets-fake-it-nodejs-random-data-generation)
 - [Web scrapping with JS](https://beshaimakes.com/js-scrape-data)
-
+ -[Combining D3.js with React](https://levelup.gitconnected.com/combining-d3-js-with-react-1c15c41429a6)
+ 
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
 - :star:[Getting Started with React (2019 Edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
