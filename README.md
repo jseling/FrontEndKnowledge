@@ -227,7 +227,8 @@
 - [JavaScript library for creating sketchy/hand-drawn styled charts](https://github.com/jwilber/roughViz)
 - [Let’s Fake it: Random Data Generation With Node and Faker.js](https://dzone.com/articles/lets-fake-it-nodejs-random-data-generation)
 - [Web scrapping with JS](https://beshaimakes.com/js-scrape-data)
- -[Combining D3.js with React](https://levelup.gitconnected.com/combining-d3-js-with-react-1c15c41429a6)
+- [Combining D3.js with React](https://levelup.gitconnected.com/combining-d3-js-with-react-1c15c41429a6)
+- [Learn how to build a D3 dashboard with an example in React, Material UI, and Cube.js.](https://d3-dashboard.cube.dev/)
  
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
