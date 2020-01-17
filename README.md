@@ -323,6 +323,7 @@
 - [Vestibular Issues in Parallax Design](https://www.webaxe.org/vestibular-issues-parallax-design/)
 - [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 - [What Parallax Lacks](https://www.nngroup.com/articles/parallax-usability/)
+- [Debunking the Myth: Accessibility and React](https://www.deque.com/blog/debunking-the-myth-accessibility-and-react/)
 
 ## Media recording
 - [[AskJS] Question regarding building video recorder for long videos](https://en.reddit.com/r/javascript/comments/e9g2m1/askjs_question_regarding_building_video_recorder/)
