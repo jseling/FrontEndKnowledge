@@ -69,6 +69,7 @@
 - :star:[Curated library of colors and fonts for Web Developers & Digital Designers.](https://www.colorsandfonts.com/)
 - :star:[CSS layout patterns](https://csslayout.io/patterns/)
 - [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
+- [What are CSS percentages?](https://jameshfisher.com/2019/12/29/what-are-css-percentages/)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
