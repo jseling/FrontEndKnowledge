@@ -176,6 +176,7 @@
 - [Async JavaScript Part 2: Promises](https://www.codespot.org/async-javascript-part-2-promises/)
 - [Async JavaScript Part 3: Async/Await](https://www.codespot.org/async-javascript-part-3-async-await/)
 - [JavaScript Promise combinators: race, all, allSettled, any](https://www.wisdomgeek.com/development/web-development/javascript/javascript-promises-combinators-race-all-allsettled-any/)
+- [Async function with +=](https://stackoverflow.com/questions/59802441/async-function-with)
 
 ### Object Oriented Programming
 - [A Guide to Object-Oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81)
@@ -205,6 +206,7 @@
 - [Different ways to remove elements from an array in JavaScript](https://levelup.gitconnected.com/different-ways-to-remove-elements-from-an-array-in-javascript-fa603d065c58)
 - [JavaScript Arrays: Some(), Every(), and forEach()](https://levelup.gitconnected.com/javascript-array-some-vs-every-vs-foreach-knowledge-scoops-81dfe43369c6)
 - [Removing duplicates from an array](https://javascript.christmas/2019/3)
+- [You Simply Cannot Do These Things in a forEach Loop in JavaScript](https://medium.com/better-programming/you-simply-cannot-do-these-things-in-a-foreach-loop-in-javascript-cd6368264f53)
 
 ### Destructuring assignment
 - [Mozzila: Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
