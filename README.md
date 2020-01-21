@@ -71,6 +71,7 @@
 - [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
 - [What are CSS percentages?](https://jameshfisher.com/2019/12/29/what-are-css-percentages/)
 - [The Best Color Functions in CSS?](https://css-tricks.com/the-best-color-functions-in-css/)
+- :star:[The CSS Cascade: Or, How browsers resolve competing CSS styles](https://wattenberger.com/blog/css-cascade)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
