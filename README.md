@@ -70,6 +70,7 @@
 - :star:[CSS layout patterns](https://csslayout.io/patterns/)
 - [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
 - [What are CSS percentages?](https://jameshfisher.com/2019/12/29/what-are-css-percentages/)
+- [The Best Color Functions in CSS?](https://css-tricks.com/the-best-color-functions-in-css/)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
