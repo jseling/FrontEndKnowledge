@@ -41,6 +41,7 @@
 - [All HTML5 Tags](https://www.html-5-tutorial.com/all-html-tags.htm)
 - :star:[HTML CheatSheet](https://htmlcheatsheet.com/)
 - :star:[A collection of bad practices in HTML, copied from real websites.](https://www.htmhell.dev/)
+- [How To Use HTML Semantics like a HERO](https://hackernoon.com/how-to-use-html-sematic-like-a-hero-08o736g9)
   
 ## CSS  
 - [CSS: An Art, a Science, a Nightmare (Overview of CSS Concepts)](https://www.taniarascia.com/overview-of-css-concepts/)
@@ -72,6 +73,7 @@
 - [What are CSS percentages?](https://jameshfisher.com/2019/12/29/what-are-css-percentages/)
 - [The Best Color Functions in CSS?](https://css-tricks.com/the-best-color-functions-in-css/)
 - :star:[The CSS Cascade: Or, How browsers resolve competing CSS styles](https://wattenberger.com/blog/css-cascade)
+- [CSS Layout Basics: HTML5 & CSS3 Elements Positioning](https://hackernoon.com/css-layout-basics-html5-and-css3-elements-positioning-wmdj36qa)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
