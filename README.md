@@ -149,6 +149,7 @@
 - [5 things you don’t know about try-catch-finally in JavaScript](https://levelup.gitconnected.com/5-things-you-dont-know-about-try-catch-finally-in-javascript-5d661996d77c)
 - [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [REDDIT: Clean Code concepts adapted for JavaScript](https://www.reddit.com/r/javascript/comments/erimed/github_ryanmcdermottcleancodejavascript_clean/)
+- :star:[The State of JS 2019](https://2019.stateofjs.com/)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
