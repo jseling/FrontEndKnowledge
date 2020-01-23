@@ -74,6 +74,7 @@
 - [The Best Color Functions in CSS?](https://css-tricks.com/the-best-color-functions-in-css/)
 - :star:[The CSS Cascade: Or, How browsers resolve competing CSS styles](https://wattenberger.com/blog/css-cascade)
 - [CSS Layout Basics: HTML5 & CSS3 Elements Positioning](https://hackernoon.com/css-layout-basics-html5-and-css3-elements-positioning-wmdj36qa)
+- :star:[CSS is powerful, you can do a lot of things without JS.](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
