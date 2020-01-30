@@ -76,7 +76,8 @@
 - [CSS Layout Basics: HTML5 & CSS3 Elements Positioning](https://hackernoon.com/css-layout-basics-html5-and-css3-elements-positioning-wmdj36qa)
 - :star:[CSS is powerful, you can do a lot of things without JS.](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 - [Min and Max Width/Height in CSS](https://ishadeed.com/article/min-max-css/)
-
+- [HTML5 And CSS3: Tidbits Galore](https://hackernoon.com/html5-and-css3-tidbits-galore-cd3m3674)
+- [Why You Should Use CSS Variables: Beginners Guide](https://hackernoon.com/why-you-should-use-css-variables-beginners-guide-4z9x36qw)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
@@ -177,6 +178,7 @@
 - [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
 - [Lesser-Known JavaScript Hazards](https://medium.com/better-programming/lesser-known-javascript-hazards-8d688a463b1f)
 - [Using Hooks for Lazy-Loading Images in React](https://medium.com/better-programming/image-lazy-loading-in-react-intersection-observer-a9ae912ddafe)
+- [Stop Using === Everywhere](https://medium.com/better-programming/stop-using-everywhere-fd025342132d)
 
 ### Parallel Programming
 - [JavaScript Async/Await 101](https://hakaselogs.me/2017-08-12/javascript-async/await-101/)
@@ -321,6 +323,7 @@
 - [Redux.org](https://redux.js.org/)
 - [Gerenciando estado de componentes React com o Redux](https://medium.com/desenvolvimento-com-react/estado-componentes-react-redux-fcd899676f6a)
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+- [Intro to Redux (React-Redux).](https://medium.com/wesionary-team/intro-to-redux-react-redux-57bf930a05c5)
 
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
