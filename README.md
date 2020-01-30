@@ -203,6 +203,7 @@
 - [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
 - [Pure functions in JavaScript](http://willtaylor.blog/javascript-pure-functions/)
 - [Functional Programming in JavaScript: Introduction and Practical Examples](https://medium.com/better-programming/functional-programming-in-javascript-introduction-and-practical-examples-d268e44395b2)
+- [FUNCTIONAL PROGRAMMING IN JAVASCRIPT](https://softwarebrothers.co/blog/functional-programming-in-javascript/)
 
 ### Spread & Rest Operator
 - [Sintaxe de Espalhamento (Spread syntax) ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
