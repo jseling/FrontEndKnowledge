@@ -233,6 +233,15 @@
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [Introduction to Web Components. Part 1: Native vs Virtual DOM](https://blog.soshace.com/introduction-to-web-components-part-1-native-vs-virtual-dom/)
 
+## Flux
+- [Flux: Entenda como funciona a arquitetura Flux com React](https://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/)
+- [Flux – descubra o motivo do sucesso dessa arquitetura em grandes empresas](https://www.treinaweb.com.br/blog/flux-descubra-o-motivo-do-sucesso-dessa-arquitetura-em-grandes-empresas/)
+- [Flux, a arquitetura JavaScript que funciona](https://medium.com/@dayvsonlima/flux-a-arquitetura-javascript-que-funciona-1197857464b8)
+- [Os estados do Flux: uma nova arquitetura](https://imasters.com.br/devsecops/os-estados-do-flux-uma-nova-arquitetura)
+- [Como funciona a arquitetura Flux?](https://pt.stackoverflow.com/questions/27167/como-funciona-a-arquitetura-flux)
+- [Entendendo Flux](https://rafaell-lycan.com/2015/entendendo-flux/)
+
+
 ## Librarys
 - [D3.js: Library for visualizing data](https://github.com/d3/d3/wiki)
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
