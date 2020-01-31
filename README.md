@@ -43,7 +43,10 @@
 - :star:[HTML CheatSheet](https://htmlcheatsheet.com/)
 - :star:[A collection of bad practices in HTML, copied from real websites.](https://www.htmhell.dev/)
 - [How To Use HTML Semantics like a HERO](https://hackernoon.com/how-to-use-html-sematic-like-a-hero-08o736g9)
-  
+
+### Forms
+- [Take Control of Your Forms with HTML5](https://hackernoon.com/take-control-of-your-forms-with-html5-gq7436io)
+
 ## CSS  
 - [CSS: An Art, a Science, a Nightmare (Overview of CSS Concepts)](https://www.taniarascia.com/overview-of-css-concepts/)
 - [Fundamental CSS for Beginners](https://levelup.gitconnected.com/fundamental-css-for-beginners-f44e8b9a5da5)
