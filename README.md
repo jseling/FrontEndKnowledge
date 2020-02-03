@@ -87,6 +87,7 @@
 - [CSSTricks: Properties: animation](https://css-tricks.com/almanac/properties/a/animation/)
 - [Animate.css](https://daneden.github.io/animate.css/)
 - :clapper:[CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
+- [How To Add CSS Dark Mode To A Website](https://kevq.uk/how-to-add-css-dark-mode-to-a-website/)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
