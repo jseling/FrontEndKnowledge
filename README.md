@@ -82,6 +82,11 @@
 - [Min and Max Width/Height in CSS](https://ishadeed.com/article/min-max-css/)
 - [HTML5 And CSS3: Tidbits Galore](https://hackernoon.com/html5-and-css3-tidbits-galore-cd3m3674)
 - [Why You Should Use CSS Variables: Beginners Guide](https://hackernoon.com/why-you-should-use-css-variables-beginners-guide-4z9x36qw)
+- [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
+- [Animations in CSS](https://cssreference.io/animations/)
+- [CSSTricks: Properties: animation](https://css-tricks.com/almanac/properties/a/animation/)
+- [Animate.css](https://daneden.github.io/animate.css/)
+- :clapper:[CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
