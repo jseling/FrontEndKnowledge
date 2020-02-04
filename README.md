@@ -293,6 +293,8 @@
 - [React Christmas](https://react.christmas/)
 - [How To Implement Dark Mode in Your React App](https://medium.com/better-programming/how-to-implement-dark-mode-in-your-react-app-63c1a0c5e337)
 - :star:[Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
+- [Two Lessons I Learned From Making React Components](https://css-tricks.com/two-lessons-i-learned-from-making-react-components/)
+
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
