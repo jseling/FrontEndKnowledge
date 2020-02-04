@@ -88,6 +88,7 @@
 - [Animate.css](https://daneden.github.io/animate.css/)
 - :clapper:[CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
 - [How To Add CSS Dark Mode To A Website](https://kevq.uk/how-to-add-css-dark-mode-to-a-website/)
+- [Learn CSS Positioning](https://ishadeed.com/article/learn-css-positioning/)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
