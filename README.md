@@ -337,6 +337,7 @@
 - [Gerenciando estado de componentes React com o Redux](https://medium.com/desenvolvimento-com-react/estado-componentes-react-redux-fcd899676f6a)
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 - [Intro to Redux (React-Redux).](https://medium.com/wesionary-team/intro-to-redux-react-redux-57bf930a05c5)
+- [Replacing Redux with observables and React Hooks](https://blog.betomorrow.com/replacing-redux-with-observables-and-react-hooks-acdbbaf5ba80)
 
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
