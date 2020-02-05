@@ -378,6 +378,7 @@
 - [10 Rules of Dashboard Design](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
 - [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
 - [Le neumorphism va-t-il révolutionner l’UI ?](https://blog.betomorrow.com/le-neumorphism-va-t-il-r%C3%A9volutionner-lui-5f14cdb2b449)
+- [Dark Mode vs. Light Mode: Which Is Better?](https://www.nngroup.com/articles/dark-mode/)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
