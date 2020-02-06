@@ -237,6 +237,9 @@
 - [Master Destructing Values in JavaScript](https://levelup.gitconnected.com/mastering-destructing-values-in-javascript-68a4e3b7b79)
 - [Destructuring in JavaScript](https://elmahdim.com/destructuring-in-javascript-ck3ifymaw00h1d0s1fnn5vibw)
 
+### Exceptions
+- [Exception handling in JavaScript](https://overflowjs.com/posts/Exception-handling-in-JavaScript.html)
+
 ### Design Patterns
 - [JavaScript 101: Design Patterns](https://www.codespot.org/javascript-101-design-patterns/)
 
