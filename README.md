@@ -346,6 +346,7 @@
 
 ### TDD React
 - [Testing Overview](https://reactjs.org/docs/testing.html)
+- [Writing testable React components with hooks.](https://medium.com/@Charles_Stover/writing-testable-react-components-with-hooks-23441ee582d5)
 
 ## SVG
 - [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
