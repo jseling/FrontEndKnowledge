@@ -248,6 +248,7 @@
 - [Didact: a DIY guide to build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [Introduction to Web Components. Part 1: Native vs Virtual DOM](https://blog.soshace.com/introduction-to-web-components-part-1-native-vs-virtual-dom/)
+- [Build a Responsive Dashboard with Vue.js, SVG and Three.js](https://tips4devs.com/articles/build-a-responsive-dashboard-with-vue-js.html)
 
 ## Flux
 - [Flux: Entenda como funciona a arquitetura Flux com React](https://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/)
