@@ -316,6 +316,7 @@
 - [How to fetch data in React](https://www.robinwieruch.de/react-fetching-data)
 - [Mozzila: Usando Fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch)
 - [Fetch API e o JavaScript](https://braziljs.org/artigos/fetch-api-e-o-javascript/)
+- [Upload image with Fetch API in JavaScript](https://coder4.life/content/code/fetch-api-upload-image)
 
 ### Specific Components
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
