@@ -89,6 +89,7 @@
 - :clapper:[CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
 - [How To Add CSS Dark Mode To A Website](https://kevq.uk/how-to-add-css-dark-mode-to-a-website/)
 - [Learn CSS Positioning](https://ishadeed.com/article/learn-css-positioning/)
+- [<MAPAUH> How to Create a Simple Gantt Chart Using CSS Grid](https://dzone.com/articles/how-to-create-a-simple-gantt-chart-using-css-grid-1)
 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
@@ -249,6 +250,7 @@
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [Introduction to Web Components. Part 1: Native vs Virtual DOM](https://blog.soshace.com/introduction-to-web-components-part-1-native-vs-virtual-dom/)
 - [Build a Responsive Dashboard with Vue.js, SVG and Three.js](https://tips4devs.com/articles/build-a-responsive-dashboard-with-vue-js.html)
+- [How To Create Maps With React And Leaflet](https://www.smashingmagazine.com/2020/02/javascript-maps-react-leaflet/)
 
 ## Flux
 - [Flux: Entenda como funciona a arquitetura Flux com React](https://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/)
