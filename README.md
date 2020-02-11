@@ -404,4 +404,5 @@
 ## Performance
 - [Building a Website load in 50 ms](https://joshbradley.me/building-this-website/)
 - [JavaScript component-level CPU costs](https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/)
+- [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
 
