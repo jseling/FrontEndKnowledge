@@ -232,6 +232,7 @@
 - [JavaScript Arrays: Some(), Every(), and forEach()](https://levelup.gitconnected.com/javascript-array-some-vs-every-vs-foreach-knowledge-scoops-81dfe43369c6)
 - [Removing duplicates from an array](https://javascript.christmas/2019/3)
 - [You Simply Cannot Do These Things in a forEach Loop in JavaScript](https://medium.com/better-programming/you-simply-cannot-do-these-things-in-a-foreach-loop-in-javascript-cd6368264f53)
+- [4 Methods to Search Through Arrays in JavaScript](https://alligator.io/js/array-search-methods/)
 
 ### Destructuring assignment
 - [Mozzila: Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
@@ -326,6 +327,7 @@
 - [Stop Using Loading Spinner, There’s Something Better](https://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
 - [WebGL, React, and no JavaScript](https://martin.varela.fi/2019/11/01/webgl-react-and-no-javascript/)
 - [A Collection of most useful and common ReactJS Libraries/Components](https://applibslist.xyz/)
+- [Styled Components vs. CSS Stylesheets](https://getstream.io/blog/styled-components-vs-css-stylesheets/)
 
 ### React Router
 - [Oficial Training](https://reacttraining.com/react-router/web/guides/quick-start)
