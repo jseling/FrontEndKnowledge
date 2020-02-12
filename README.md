@@ -3,7 +3,7 @@
 ## Sites
 - [CSS Tricks](https://css-tricks.com/)
 - [Philip Walton](https://philipwalton.com/)
-- [Online Tutorials](https://www.tutorialslogic.com/)
+- :star:[Online Tutorials](https://www.tutorialslogic.com/)
 - [BrasilJS](https://braziljs.org/artigos/)
 
 ## General
@@ -48,6 +48,7 @@
 - [Take Control of Your Forms with HTML5](https://hackernoon.com/take-control-of-your-forms-with-html5-gq7436io)
 
 ## CSS  
+- :star:[CSS Tutorials Logic](https://www.tutorialslogic.com/css?ver.3)
 - [CSS: An Art, a Science, a Nightmare (Overview of CSS Concepts)](https://www.taniarascia.com/overview-of-css-concepts/)
 - [Fundamental CSS for Beginners](https://levelup.gitconnected.com/fundamental-css-for-beginners-f44e8b9a5da5)
 - [Mozilla Developer: CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
