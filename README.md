@@ -43,6 +43,7 @@
 - :star:[HTML CheatSheet](https://htmlcheatsheet.com/)
 - :star:[A collection of bad practices in HTML, copied from real websites.](https://www.htmhell.dev/)
 - [How To Use HTML Semantics like a HERO](https://hackernoon.com/how-to-use-html-sematic-like-a-hero-08o736g9)
+- [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/)
 
 ### Forms
 - [Take Control of Your Forms with HTML5](https://hackernoon.com/take-control-of-your-forms-with-html5-gq7436io)
