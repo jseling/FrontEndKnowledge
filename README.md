@@ -303,7 +303,7 @@
 - [How To Implement Dark Mode in Your React App](https://medium.com/better-programming/how-to-implement-dark-mode-in-your-react-app-63c1a0c5e337)
 - :star:[Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 - [Two Lessons I Learned From Making React Components](https://css-tricks.com/two-lessons-i-learned-from-making-react-components/)
-
+- [What to answer when questions about React appear at job interview?](https://blog.piotrnalepa.pl/2020/02/18/what-to-answer-when-questions-about-react-appear-at-job-interview/)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
@@ -379,6 +379,7 @@
 - [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 - [What Parallax Lacks](https://www.nngroup.com/articles/parallax-usability/)
 - [Debunking the Myth: Accessibility and React](https://www.deque.com/blog/debunking-the-myth-accessibility-and-react/)
+- [CSS Can Influence Screenreaders](https://blog.benmyers.dev/css-can-influence-screenreaders/)
 
 ## Media recording
 - [[AskJS] Question regarding building video recorder for long videos](https://en.reddit.com/r/javascript/comments/e9g2m1/askjs_question_regarding_building_video_recorder/)
