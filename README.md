@@ -21,7 +21,8 @@
 - [Micro Frontend Curry](https://levelup.gitconnected.com/micro-frontend-curry-506b98a4cfc0)
 - [Let’s Get Graphic: A Few Ways To Draw On The Web](https://stackoverflow.blog/2019/11/06/lets-get-graphic-a-few-ways-to-draw-on-the-web/)
  - [Why is modern web development so complicated? A long yet hasty explanation: Part 1!](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
-
+- [Making Web Components for Different Contexts](https://hackdoor.io/articles/5kQdnVND/making-web-components-for-different-contexts)
+ 
 ## Livros
   - :book:[PacktPub: Modern JavaScript Web Development Cookbook](https://subscription.packtpub.com/book/web_development/9781788992749)
  - [Mastering React Test-Driven Development](https://subscription.packtpub.com/book/web_development/9781789133417) 
@@ -45,6 +46,7 @@
 - [How To Use HTML Semantics like a HERO](https://hackernoon.com/how-to-use-html-sematic-like-a-hero-08o736g9)
 - [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/)
 - [A Complete Guide to Links and Buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
+- [How we learned to draw text on HTML5 Canvas](https://habr.com/en/company/miro/blog/489078/)
 
 ### Forms
 - [Take Control of Your Forms with HTML5](https://hackernoon.com/take-control-of-your-forms-with-html5-gq7436io)
@@ -93,7 +95,8 @@
 - [How To Add CSS Dark Mode To A Website](https://kevq.uk/how-to-add-css-dark-mode-to-a-website/)
 - [Learn CSS Positioning](https://ishadeed.com/article/learn-css-positioning/)
 - [<MAPAUH> How to Create a Simple Gantt Chart Using CSS Grid](https://dzone.com/articles/how-to-create-a-simple-gantt-chart-using-css-grid-1)
-
+- [When CSS Blocks](https://timkadlec.com/remembers/2020-02-13-when-css-blocks/)
+ 
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
 - [Mozilla: Usando Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries)
