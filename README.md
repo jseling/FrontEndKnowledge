@@ -5,6 +5,7 @@
 - [Philip Walton](https://philipwalton.com/)
 - :star:[Online Tutorials](https://www.tutorialslogic.com/)
 - [BrasilJS](https://braziljs.org/artigos/)
+- [Frontend by Daniel Xavier Softplan](https://slides.com/danieljxavier)
 
 ## General
 - [A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
