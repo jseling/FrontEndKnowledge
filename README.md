@@ -125,7 +125,8 @@
 - [CSS Grid – Um Guia Interativo (Parte 1 – Containers)](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-1-containers/)
 - [CSS Grid – Um Guia Interativo (Parte 2 – Itens)](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-2-itens/)
 - [CSS Grid is a Grid Framework](https://hackernoon.com/css-grid-is-a-grid-framework-ups324z)  
-  
+- [Responsive Grid Magazine Layout in Just 20 Lines of CSS](https://css-tricks.com/responsive-grid-magazine-layout-in-just-20-lines-of-css/)
+
 ### Bootstrap
 - [Documentação oficial](https://getbootstrap.com.br/docs/4.1/getting-started/introduction/)
   
