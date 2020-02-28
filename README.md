@@ -250,9 +250,6 @@
 ### Exceptions
 - [Exception handling in JavaScript](https://overflowjs.com/posts/Exception-handling-in-JavaScript.html)
 
-### Design Patterns
-- [JavaScript 101: Design Patterns](https://www.codespot.org/javascript-101-design-patterns/)
-
 ## Frameworks
 - [Build your own React in 90 lines of JavaScript](https://dev.to/ameerthehacker/build-your-own-react-in-90-lines-of-javascript-1je2)
 - [Didact: a DIY guide to build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
@@ -376,6 +373,8 @@
 - [Micro Frontend Architecture: Replacing a Monolith from the Inside Out](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
 - [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39)
 - [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
+- [JavaScript 101: Design Patterns](https://www.codespot.org/javascript-101-design-patterns/)
+- [REST API Design Best Practices](https://blog.soshace.com/rest-api-design-best-practices/)
 
 ## Usability
 - [Why the GOV.UK Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
