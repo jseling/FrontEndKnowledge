@@ -424,6 +424,7 @@
 - [JavaScript component-level CPU costs](https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/)
 - [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
 - [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+- [GraphQL: Improving performance](https://www.apollographql.com/docs/react/performance/performance/)
 
 ## HTTP
 - [http-decision-diagram](https://github.com/for-GET/http-decision-diagram)
