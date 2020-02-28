@@ -377,6 +377,9 @@
 - [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39)
 - [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
 
+## Usability
+- [Why the GOV.UK Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
+
 ## Accessibility
 - [What I’ve learned about accessibility in SPAs](https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas/)
 - [Creating Online Environments That Work Well For Older Users](https://www.smashingmagazine.com/2019/11/online-environments-older-users/)
