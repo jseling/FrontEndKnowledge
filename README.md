@@ -6,6 +6,7 @@
 - :star:[Online Tutorials](https://www.tutorialslogic.com/)
 - [BrasilJS](https://braziljs.org/artigos/)
 - [Frontend by Daniel Xavier Softplan](https://slides.com/danieljxavier)
+- :star:[Client-Side Web Development](https://info340.github.io/)
 
 ## General
 - [A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
