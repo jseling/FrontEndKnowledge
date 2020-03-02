@@ -390,6 +390,7 @@
 - [What Parallax Lacks](https://www.nngroup.com/articles/parallax-usability/)
 - [Debunking the Myth: Accessibility and React](https://www.deque.com/blog/debunking-the-myth-accessibility-and-react/)
 - [CSS Can Influence Screenreaders](https://blog.benmyers.dev/css-can-influence-screenreaders/)
+- [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 
 ## Media recording
 - [[AskJS] Question regarding building video recorder for long videos](https://en.reddit.com/r/javascript/comments/e9g2m1/askjs_question_regarding_building_video_recorder/)
