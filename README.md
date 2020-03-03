@@ -309,6 +309,7 @@
 - [Two Lessons I Learned From Making React Components](https://css-tricks.com/two-lessons-i-learned-from-making-react-components/)
 - [What to answer when questions about React appear at job interview?](https://blog.piotrnalepa.pl/2020/02/18/what-to-answer-when-questions-about-react-appear-at-job-interview/)
 - [How To Use The HTML Drag-And-Drop API In React](https://www.smashingmagazine.com/2020/02/html-drag-drop-api-react/)
+- [6 Ways to Share React Components in 2020](https://blog.bitsrc.io/6-ways-to-share-and-reuse-react-components-6d80e2fd16cd)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
