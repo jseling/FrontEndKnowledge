@@ -15,7 +15,6 @@
 - [don’t get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 - [What Are 7 Principles Of Design?](https://codersera.com/blog/what-are-7-principles-of-design/)
 - [A free guide to HTML5 <head> elements](https://htmlhead.dev/)
-- [don’t get clever with login forms](https://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 - [9 basic principles of responsive web design](https://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 - [Vanilla JavaScript and HTML - No frameworks. No libraries. No problem.](https://johnpapa.net/render-html-2/)  
 - [WEB COMPONENTS: AN IN-DEPTH REVIEW WITH EXAMPLES](https://walkingtree.tech/web-components-an-in-depth-review-with-examples/)
