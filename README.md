@@ -49,6 +49,7 @@
 - [A Complete Guide to Links and Buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
 - [How we learned to draw text on HTML5 Canvas](https://habr.com/en/company/miro/blog/489078/)
 - [Dragging, Resizing and Rotating HTML elements: Fun with Web Components and Math](https://www.nmattia.com/posts/2020-03-03-drag-resize-rotate.html)
+- :star:[HTML Living Standard](https://html.spec.whatwg.org/)
 
 ### Forms
 - [Take Control of Your Forms with HTML5](https://hackernoon.com/take-control-of-your-forms-with-html5-gq7436io)
@@ -211,6 +212,7 @@
 - [Async JavaScript Part 3: Async/Await](https://www.codespot.org/async-javascript-part-3-async-await/)
 - [JavaScript Promise combinators: race, all, allSettled, any](https://www.wisdomgeek.com/development/web-development/javascript/javascript-promises-combinators-race-all-allsettled-any/)
 - [Async function with +=](https://stackoverflow.com/questions/59802441/async-function-with)
+- [await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
 
 ### Object Oriented Programming
 - [A Guide to Object-Oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81)
@@ -429,6 +431,7 @@
 - [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
 - [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
 - [GraphQL: Improving performance](https://www.apollographql.com/docs/react/performance/performance/)
+- [Netflix functions without client-side React, and it's a good thing](https://jakearchibald.com/2017/netflix-and-react/)
 
 ## HTTP
 - [http-decision-diagram](https://github.com/for-GET/http-decision-diagram)
