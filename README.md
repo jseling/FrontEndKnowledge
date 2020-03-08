@@ -50,6 +50,7 @@
 - [How we learned to draw text on HTML5 Canvas](https://habr.com/en/company/miro/blog/489078/)
 - [Dragging, Resizing and Rotating HTML elements: Fun with Web Components and Math](https://www.nmattia.com/posts/2020-03-03-drag-resize-rotate.html)
 - :star:[HTML Living Standard](https://html.spec.whatwg.org/)
+- [The HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/)
 
 ### Forms
 - [Take Control of Your Forms with HTML5](https://hackernoon.com/take-control-of-your-forms-with-html5-gq7436io)
