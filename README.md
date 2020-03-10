@@ -316,6 +316,7 @@
 - [How To Use The HTML Drag-And-Drop API In React](https://www.smashingmagazine.com/2020/02/html-drag-drop-api-react/)
 - [6 Ways to Share React Components in 2020](https://blog.bitsrc.io/6-ways-to-share-and-reuse-react-components-6d80e2fd16cd)
 - :star:[What React Does (and Doesn't Do)](https://daveceddia.com/what-react-does/)
+- :star:[React Lessons](https://blog.soshace.com/category/javascript/react/react-lessons/)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
