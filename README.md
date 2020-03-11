@@ -393,6 +393,7 @@
 - [Creating Online Environments That Work Well For Older Users](https://www.smashingmagazine.com/2019/11/online-environments-older-users/)
 - [Accessibility checklist](https://www.benjystanton.co.uk/blog/accessibility-checklist/)
 - [ARIA: Accessible Rich Internet Applications](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/#intro)
 - [Vestibular Issues in Parallax Design](https://www.webaxe.org/vestibular-issues-parallax-design/)
 - [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 - [What Parallax Lacks](https://www.nngroup.com/articles/parallax-usability/)
