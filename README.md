@@ -402,7 +402,7 @@
 - [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 - [Reakit: Build accessible rich web apps with React](https://reakit.io/)
 - [Reach UI: Seeks to become the accessible foundation of your React-based design system.](https://reacttraining.com/reach-ui/)
-
+- [Programming Sass to Create Accessible Color Combinations](https://css-tricks.com/programming-sass-to-create-accessible-color-combinations/)
 
 ## Media recording
 - [[AskJS] Question regarding building video recorder for long videos](https://en.reddit.com/r/javascript/comments/e9g2m1/askjs_question_regarding_building_video_recorder/)
