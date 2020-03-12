@@ -436,6 +436,7 @@
 - [Introduction to WebAssembly for .NET Developers](https://platform.uno/blog/webassembly-for-dot-net-developers/)
 - :star:[WebAssembly Studio](https://webassembly.studio/)
 - [ActuallyUsingWasm](https://wiki.alopex.li/ActuallyUsingWasm)
+- [Browser-side PDF processing with Go and WebAssembly](https://dev.to/wcchoi/browser-side-pdf-processing-with-go-and-webassembly-13hn)
 
 ## Performance
 - [Building a Website load in 50 ms](https://joshbradley.me/building-this-website/)
