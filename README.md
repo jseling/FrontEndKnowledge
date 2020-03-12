@@ -435,6 +435,7 @@
 - [C# and WebAssembly (Wasm)](https://christianfindlay.com/2019/06/29/c-and-webassembly-wasm/)
 - [Introduction to WebAssembly for .NET Developers](https://platform.uno/blog/webassembly-for-dot-net-developers/)
 - :star:[WebAssembly Studio](https://webassembly.studio/)
+- [ActuallyUsingWasm](https://wiki.alopex.li/ActuallyUsingWasm)
 
 ## Performance
 - [Building a Website load in 50 ms](https://joshbradley.me/building-this-website/)
