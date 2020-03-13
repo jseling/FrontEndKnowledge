@@ -438,6 +438,7 @@
 - :star:[WebAssembly Studio](https://webassembly.studio/)
 - [ActuallyUsingWasm](https://wiki.alopex.li/ActuallyUsingWasm)
 - [Browser-side PDF processing with Go and WebAssembly](https://dev.to/wcchoi/browser-side-pdf-processing-with-go-and-webassembly-13hn)
+- :star:🦀[RustWasm](https://github.com/rustwasm/wasm-pack/)
 
 ## Performance
 - [Building a Website load in 50 ms](https://joshbradley.me/building-this-website/)
