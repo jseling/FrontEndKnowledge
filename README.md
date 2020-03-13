@@ -439,6 +439,11 @@
 - [ActuallyUsingWasm](https://wiki.alopex.li/ActuallyUsingWasm)
 - [Browser-side PDF processing with Go and WebAssembly](https://dev.to/wcchoi/browser-side-pdf-processing-with-go-and-webassembly-13hn)
 - :star:🦀[RustWasm](https://github.com/rustwasm/wasm-pack/)
+- [Intro to WebAssembly via Rust](https://itnext.io/intro-to-webassembly-via-rust-7365464868bf)
+- [What is WebAssembly?](https://itnext.io/what-is-webassembly-e1a06f856974)
+- [The Promise of WebComponents & WebAssembly](https://itnext.io/the-promise-of-webcomponents-webassembly-ad26af56fcf1)
+- [The anatomy of WebAssembly: Writing your first WebAssembly module using C (C++)](https://itnext.io/the-anatomy-of-webassembly-writing-your-first-webassembly-module-using-c-c-d9ee18f7ac9b)
+- [Run C# natively in the browser through the web assembly via mono-wasm](https://itnext.io/run-c-natively-in-the-browser-through-the-web-assembly-via-mono-wasm-60f3d55dd05a)
 
 ## Performance
 - [Building a Website load in 50 ms](https://joshbradley.me/building-this-website/)
