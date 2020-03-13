@@ -418,6 +418,7 @@
 - [Dark Mode vs. Light Mode: Which Is Better?](https://www.nngroup.com/articles/dark-mode/)
 
 ## WebAssembly
+- :star:[Developer’s Guide](https://webassembly.org/getting-started/developers-guide/)
 - :star:[WebAssembly Guide](https://www.webassembly.guide/webassembly-guide/)
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
 - [What languages can be compiled to WebAssembly (or wasm)?](https://stackoverflow.com/questions/43540878/what-languages-can-be-compiled-to-webassembly-or-wasm/43585437#43585437)
