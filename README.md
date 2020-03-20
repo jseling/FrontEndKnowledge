@@ -321,6 +321,7 @@
 - :star:[React Lessons](https://blog.soshace.com/category/javascript/react/react-lessons/)
 - [Implementing Infinite Scroll And Image Lazy Loading In React](https://www.smashingmagazine.com/2020/03/infinite-scroll-lazy-image-loading-react/)
 - [Filtering, Sorting and Pagination – Advanced Filtering with React and Redux](https://blog.soshace.com/filtering-sorting-and-pagination-advanced-filtering-with-react-and-redux/)
+- [React Suspense in Practice](https://css-tricks.com/react-suspense-in-practice/)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
