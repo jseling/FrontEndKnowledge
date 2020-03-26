@@ -180,7 +180,7 @@
 - [REDDIT: Clean Code concepts adapted for JavaScript](https://www.reddit.com/r/javascript/comments/erimed/github_ryanmcdermottcleancodejavascript_clean/)
 - :star:[The State of JS 2019](https://2019.stateofjs.com/)
 - :star:[How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
-- [10 JavaScript Things New React Devs Need to Know](https://dzone.com/articles/10-javascript-things-new-react-devs-need-to-know)
+- [How to Use the “Infinite Scrolling” Method in Javascript to Manage Large API Result Sets](https://medium.com/@kennethscoggins/how-to-use-the-infinite-scrolling-method-in-javascript-to-manage-large-api-result-sets-b8f78dba66fb)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -277,6 +277,7 @@
 
 
 ## Librarys
+- :star:[Learn D3: Introduction](https://observablehq.com/@d3/learn-d3)
 - [D3.js: Library for visualizing data](https://github.com/d3/d3/wiki)
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
 - [Bar Chart Race with D3](https://observablehq.com/@d3/bar-chart-race-explained)
@@ -323,6 +324,7 @@
 - [Implementing Infinite Scroll And Image Lazy Loading In React](https://www.smashingmagazine.com/2020/03/infinite-scroll-lazy-image-loading-react/)
 - [Filtering, Sorting and Pagination – Advanced Filtering with React and Redux](https://blog.soshace.com/filtering-sorting-and-pagination-advanced-filtering-with-react-and-redux/)
 - [React Suspense in Practice](https://css-tricks.com/react-suspense-in-practice/)
+- [10 JavaScript Things New React Devs Need to Know](https://dzone.com/articles/10-javascript-things-new-react-devs-need-to-know)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
