@@ -325,6 +325,8 @@
 - [Filtering, Sorting and Pagination – Advanced Filtering with React and Redux](https://blog.soshace.com/filtering-sorting-and-pagination-advanced-filtering-with-react-and-redux/)
 - [React Suspense in Practice](https://css-tricks.com/react-suspense-in-practice/)
 - [10 JavaScript Things New React Devs Need to Know](https://dzone.com/articles/10-javascript-things-new-react-devs-need-to-know)
+- [Top 4 Gantt Chart Solutions for React](https://dzone.com/articles/top-gantt-chart-solutions-for-react)
+
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
