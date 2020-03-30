@@ -466,3 +466,6 @@
 
 ## HTTP
 - [http-decision-diagram](https://github.com/for-GET/http-decision-diagram)
+
+## Security
+- [Online Stanford free-course: Web Security](https://web.stanford.edu/class/cs253/)
