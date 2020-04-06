@@ -103,6 +103,7 @@
 - [When CSS Blocks](https://timkadlec.com/remembers/2020-02-13-when-css-blocks/)
 - [4 Ways to Animate the Color of a Text Link on Hover](https://css-tricks.com/4-ways-to-animate-the-color-of-a-text-link-on-hover/)
 - [CSS :nth-of-class selector](https://www.bram.us/2020/03/16/css-nth-of-class-selector/)
+- [LCH colors in CSS: what, why, and how?](http://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
  
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
