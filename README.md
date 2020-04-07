@@ -182,6 +182,7 @@
 - :star:[The State of JS 2019](https://2019.stateofjs.com/)
 - :star:[How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
 - [How to Use the “Infinite Scrolling” Method in Javascript to Manage Large API Result Sets](https://medium.com/@kennethscoggins/how-to-use-the-infinite-scrolling-method-in-javascript-to-manage-large-api-result-sets-b8f78dba66fb)
+- [The JavaScript Black Hole](https://www.obsessivefacts.com/blog/2020-04-04-the-javascript-black-hole.html)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
