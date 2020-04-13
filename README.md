@@ -329,6 +329,7 @@
 - [10 JavaScript Things New React Devs Need to Know](https://dzone.com/articles/10-javascript-things-new-react-devs-need-to-know)
 - [Top 4 Gantt Chart Solutions for React](https://dzone.com/articles/top-gantt-chart-solutions-for-react)
 - [React Libraries in 2020](https://www.robinwieruch.de/react-libraries)
+- :star:[Reintroducing React: every React update since v16 demystified.](https://www.freecodecamp.org/news/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc/)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
