@@ -466,6 +466,7 @@
 - [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
 - [GraphQL: Improving performance](https://www.apollographql.com/docs/react/performance/performance/)
 - [Netflix functions without client-side React, and it's a good thing](https://jakearchibald.com/2017/netflix-and-react/)
+- [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/)
 
 ## HTTP
 - [http-decision-diagram](https://github.com/for-GET/http-decision-diagram)
