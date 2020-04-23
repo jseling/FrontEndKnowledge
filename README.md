@@ -104,7 +104,8 @@
 - [4 Ways to Animate the Color of a Text Link on Hover](https://css-tricks.com/4-ways-to-animate-the-color-of-a-text-link-on-hover/)
 - [CSS :nth-of-class selector](https://www.bram.us/2020/03/16/css-nth-of-class-selector/)
 - [LCH colors in CSS: what, why, and how?](http://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
- 
+- [98.css is a CSS library for building interfaces that look like Windows 98](https://jdan.github.io/98.css/)
+
 ### Media Query
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
 - [Mozilla: Usando Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries)
