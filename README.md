@@ -468,6 +468,7 @@
 - [The Promise of WebComponents & WebAssembly](https://itnext.io/the-promise-of-webcomponents-webassembly-ad26af56fcf1)
 - [The anatomy of WebAssembly: Writing your first WebAssembly module using C (C++)](https://itnext.io/the-anatomy-of-webassembly-writing-your-first-webassembly-module-using-c-c-d9ee18f7ac9b)
 - [Run C# natively in the browser through the web assembly via mono-wasm](https://itnext.io/run-c-natively-in-the-browser-through-the-web-assembly-via-mono-wasm-60f3d55dd05a)
+- :clapper:[Creating High-performance Web Apps with WebAssembly](https://www.infoq.com/presentations/webassembly-rust-javascript/)
 
 ## Performance
 - [Building a Website load in 50 ms](https://joshbradley.me/building-this-website/)
