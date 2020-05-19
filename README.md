@@ -53,6 +53,11 @@
 - [The HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/)
 - [Using the HTML title attribute – Updated March 2020](https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/)
 
+- [HTML Canvas Reference](https://www.w3schools.com/tags/ref_canvas.asp)
+- [Getting image data from canvas](http://falcon80.com/HTMLCanvas/PixelManipulation/getImageData.html)
+- [MDN Canvas tutorial](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Canvas_tutorial)
+- [MDN Canvas](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Canvas)
+
 ### Forms
 - [Take Control of Your Forms with HTML5](https://hackernoon.com/take-control-of-your-forms-with-html5-gq7436io)
 
