@@ -391,6 +391,9 @@
 - [Testing Overview](https://reactjs.org/docs/testing.html)
 - [Writing testable React components with hooks.](https://medium.com/@Charles_Stover/writing-testable-react-components-with-hooks-23441ee582d5)
 
+## Filtering, Sorting and Pagination
+- [Filtering, Sorting and Pagination – Advanced Filtering with React and Redux](https://blog.soshace.com/filtering-sorting-and-pagination-advanced-filtering-with-react-and-redux/)
+
 ## SVG
 - [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
 - [Use and Reuse Everything in SVG… Even Animations!](https://css-tricks.com/use-and-reuse-everything-in-svg-even-animations/)
