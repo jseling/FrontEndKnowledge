@@ -340,6 +340,7 @@
 - [React Libraries in 2020](https://www.robinwieruch.de/react-libraries)
 - :star:[Reintroducing React: every React update since v16 demystified.](https://www.freecodecamp.org/news/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc/)
 - [A critique of react hooks](https://dillonshook.com/a-critique-of-react-hooks/)
+- [POS Tutorial](https://blog.soshace.com/category/javascript/pos-tutorial/)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
