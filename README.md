@@ -174,7 +174,7 @@
 - [Responsible JavaScript: Part II](https://alistapart.com/article/responsible-javascript-part-2/)
 - [Responsible JavaScript: Part III](https://alistapart.com/article/responsible-javascript-part-3/)
 - [The JS library distribution dilemma: NPM or URL?](https://medium.com/thron-tech/the-js-library-distribution-dilemma-npm-or-url-c63aa5842a4c)
-- [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
+- :star:[A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 - [JavaScript Errors: An Exceptional History](https://blog.appsignal.com/2019/10/17/javascript-errors-an-exceptional-history.html)
 - [JavaScript Errors: An Exceptional History - Part II](https://blog.appsignal.com/2019/11/20/javascript-errors-an-exceptional-history-part-ii.html)
 - [Closures, Private Data, and Inheritance in JavaScript](https://levelup.gitconnected.com/inheritance-private-data-and-closures-in-javascript-5618bc78ebf2)
