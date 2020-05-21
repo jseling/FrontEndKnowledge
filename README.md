@@ -288,6 +288,7 @@
 
 
 ## Librarys
+- :star:[A Gentle Introduction to D3.js](https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/)
 - :star:[Learn D3: Introduction](https://observablehq.com/@d3/learn-d3)
 - [D3.js: Library for visualizing data](https://github.com/d3/d3/wiki)
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
