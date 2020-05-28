@@ -301,6 +301,7 @@
 - [Combining D3.js with React](https://levelup.gitconnected.com/combining-d3-js-with-react-1c15c41429a6)
 - [Learn how to build a D3 dashboard with an example in React, Material UI, and Cube.js.](https://d3-dashboard.cube.dev/)
 - [10 Awesome JavaScript Libraries for Front-End Developers in 2020](https://medium.com/better-programming/10-awesome-javascript-libraries-for-front-end-developers-in-2020-d450b9ed66d1)
+- [Network Graph with D3js on Canvas](https://towardsdatascience.com/network-graph-with-d3js-on-canvas-b90f275dfaa6)
  
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
