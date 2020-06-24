@@ -303,7 +303,8 @@
 - [Learn how to build a D3 dashboard with an example in React, Material UI, and Cube.js.](https://d3-dashboard.cube.dev/)
 - [10 Awesome JavaScript Libraries for Front-End Developers in 2020](https://medium.com/better-programming/10-awesome-javascript-libraries-for-front-end-developers-in-2020-d450b9ed66d1)
 - [Network Graph with D3js on Canvas](https://towardsdatascience.com/network-graph-with-d3js-on-canvas-b90f275dfaa6)
- 
+- [Stay DRY Using axios for API Requests](https://css-tricks.com/stay-dry-using-axios-for-api-requests/)
+
 ## React
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
 - :star:[Getting Started with React (2019 Edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
