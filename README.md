@@ -481,6 +481,7 @@
 - :clapper:[Creating High-performance Web Apps with WebAssembly](https://www.infoq.com/presentations/webassembly-rust-javascript/)
 - [Creating and working with WebAssembly modules](https://hacks.mozilla.org/2017/02/creating-and-working-with-webassembly-modules/)
 - [Understand WebAssembly in 5 minutes](https://www.jesuisundev.com/en/understand-webassembly-in-5-minutes/)
+- [Binary Security of WebAssembly](http://www.software-lab.org/publications/usenixSec2020-WebAssembly.pdf)
 
 ## Performance
 - [Building a Website load in 50 ms](https://joshbradley.me/building-this-website/)
