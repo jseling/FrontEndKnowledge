@@ -497,5 +497,8 @@
 ## HTTP
 - [http-decision-diagram](https://github.com/for-GET/http-decision-diagram)
 
+## CORS
+- [How I enabled CORS for any API on my Single Page App](https://dev.to/alediaferia/how-i-enabled-cors-for-any-api-on-my-single-page-app-n0b)
+
 ## Security
 - [Online Stanford free-course: Web Security](https://web.stanford.edu/class/cs253/)
