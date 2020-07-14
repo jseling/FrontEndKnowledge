@@ -194,6 +194,7 @@
 - [How to Use the “Infinite Scrolling” Method in Javascript to Manage Large API Result Sets](https://medium.com/@kennethscoggins/how-to-use-the-infinite-scrolling-method-in-javascript-to-manage-large-api-result-sets-b8f78dba66fb)
 - [The JavaScript Black Hole](https://www.obsessivefacts.com/blog/2020-04-04-the-javascript-black-hole.html)
 - :star:[Learn JavaScript by Making Digital Tabletop Games and Web Apps](https://www.freecodecamp.org/news/learn-javascript-by-making-digital-tabletop-games-and-web-apps/)
+- :star:[How to Build a Multiplayer Tabletop Game Simulator with Vue, Phaser, Node, Express, and Socket.IO](https://www.freecodecamp.org/news/how-to-build-a-multiplayer-tabletop-game-simulator/)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
