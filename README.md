@@ -446,7 +446,7 @@
 - [[AskJS] Question regarding building video recorder for long videos](https://en.reddit.com/r/javascript/comments/e9g2m1/askjs_question_regarding_building_video_recorder/)
 - [MediaRecorder.ondataavailable](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder/ondataavailable)
 
-## Design
+## Design, UX and UI
 - [Skeuomorphic Design — A controversial UX approach that is making a comeback](https://medium.muz.li/skeuomorphic-design-a-controversial-ux-approach-that-is-making-a-comeback-a0b6e93eb4bb)
 - [Walkie Talkie App- skeumorph](https://dribbble.com/shots/8262085-Walkie-Talkie-App-skeumorph)
 - [10 Rules of Dashboard Design](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
@@ -455,6 +455,50 @@
 - [Neumorphism.io](https://neumorphism.io/)
 - [Dark Mode vs. Light Mode: Which Is Better?](https://www.nngroup.com/articles/dark-mode/)
 - [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
+
+- [Opinion: Laws of UX](https://lawsofux.com/)
+TLDR:
+1. UI > UX.
+
+2. Respond in less than 400 ms.
+
+3. Make buttons clickable.
+
+4. Make it simpler.
+
+5. Copy functionality and UX off other sites.
+
+6. Draw borders around similar functionality.
+
+7. Simpler imagery is better.
+
+8. Users think objects next to each other do similar things.
+
+9. Similar items close together look like one big thing.
+
+10. Things that look the same (color, font, etc) will look like they do the same thing.
+
+11. The average person can remember 5-9 things at once.
+
+12. Remove all unnecessary elements.
+
+13. Focus on the 20% that does 80% of things.
+
+14. Any task will inflate until all of the available time is spent.
+
+15. People judge the experience by its beginning and end.
+
+16. Be tolerant to whatever actions the user may take.
+
+17. People remember the first and last items in a series.
+
+18. You can't reduce all the complexity.
+
+19. When one thing stands out from others in a group, it will be remembered.
+
+20. People remember incomplete tasks, i.e. use progress bars.
+
+
 
 ## WebAssembly
 - :star:[Developer’s Guide](https://webassembly.org/getting-started/developers-guide/)
