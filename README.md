@@ -238,6 +238,12 @@
 - [A Guide to Object-Oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81)
 - [JavaScript 101: Object Oriented Programming](https://www.codespot.org/javascript-101-object-oriented-programming/)
 - :star:[Understanding Classes in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
+- :star:[Design Patterns com JavaScript & TypeScript](https://imasters.com.br/devsecops/design-patterns-com-javascript-typescript)
+- [Design Patterns com JavaScript & TypeScript: Padrões Criacionais](https://imasters.com.br/javascript/design-patterns-com-javascript-typescript-padroes-criacionais)
+- [Design Patterns com JavaScript & TypeScript: Padrões Estruturais](https://imasters.com.br/javascript/design-patterns-com-javascript-typescript-padroes-estruturais)
+- [Design Patterns com JavaScript & TypeScript: Padrões Comportamentais](https://imasters.com.br/javascript/design-patterns-com-javascript-typescript-padroes-comportamentais)
+
+
 
 ### Arrow functions
 - [ES6 In Depth: Arrow functions](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
