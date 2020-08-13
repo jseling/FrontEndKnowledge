@@ -195,6 +195,7 @@
 - [The JavaScript Black Hole](https://www.obsessivefacts.com/blog/2020-04-04-the-javascript-black-hole.html)
 - :star:[Learn JavaScript by Making Digital Tabletop Games and Web Apps](https://www.freecodecamp.org/news/learn-javascript-by-making-digital-tabletop-games-and-web-apps/)
 - :star:[How to Build a Multiplayer Tabletop Game Simulator with Vue, Phaser, Node, Express, and Socket.IO](https://www.freecodecamp.org/news/how-to-build-a-multiplayer-tabletop-game-simulator/)
+- 📊[ES5: Entire Javascript in One Image](https://www.theinsaneapp.com/2020/08/learn-entire-js-in-one-image.html)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -458,47 +459,28 @@
 - [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 
 - [Opinion: Laws of UX](https://lawsofux.com/)
+
 TLDR:
 1. UI > UX.
-
 2. Respond in less than 400 ms.
-
 3. Make buttons clickable.
-
 4. Make it simpler.
-
 5. Copy functionality and UX off other sites.
-
 6. Draw borders around similar functionality.
-
 7. Simpler imagery is better.
-
 8. Users think objects next to each other do similar things.
-
 9. Similar items close together look like one big thing.
-
 10. Things that look the same (color, font, etc) will look like they do the same thing.
-
 11. The average person can remember 5-9 things at once.
-
 12. Remove all unnecessary elements.
-
 13. Focus on the 20% that does 80% of things.
-
 14. Any task will inflate until all of the available time is spent.
-
 15. People judge the experience by its beginning and end.
-
 16. Be tolerant to whatever actions the user may take.
-
 17. People remember the first and last items in a series.
-
 18. You can't reduce all the complexity.
-
 19. When one thing stands out from others in a group, it will be remembered.
-
 20. People remember incomplete tasks, i.e. use progress bars.
-
 
 
 ## WebAssembly
