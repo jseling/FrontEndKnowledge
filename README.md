@@ -52,7 +52,7 @@
 - :star:[HTML Living Standard](https://html.spec.whatwg.org/)
 - [The HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/)
 - [Using the HTML title attribute – Updated March 2020](https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/)
-
+- [10 useful HTML5 features, you may not be using](https://blog.greenroots.info/10-useful-html5-features-you-may-not-be-using-ckdua7ql300l1m3s1ez7teshc)
 - [HTML Canvas Reference](https://www.w3schools.com/tags/ref_canvas.asp)
 - [Getting image data from canvas](http://falcon80.com/HTMLCanvas/PixelManipulation/getImageData.html)
 - [MDN Canvas tutorial](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Canvas_tutorial)
