@@ -450,6 +450,7 @@
 - [Reach UI: Seeks to become the accessible foundation of your React-based design system.](https://reacttraining.com/reach-ui/)
 - [Programming Sass to Create Accessible Color Combinations](https://css-tricks.com/programming-sass-to-create-accessible-color-combinations/)
 - [Accessible HTML Elements](https://amberwilson.co.uk/blog/accessible-html-elements/)
+- :star:[5 most annoying website features I face as a blind person every single day](https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/)
 
 ## Media recording
 - [[AskJS] Question regarding building video recorder for long videos](https://en.reddit.com/r/javascript/comments/e9g2m1/askjs_question_regarding_building_video_recorder/)
