@@ -466,6 +466,7 @@
 - [Dark Mode vs. Light Mode: Which Is Better?](https://www.nngroup.com/articles/dark-mode/)
 - [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 - [Form design](https://gerireid.com/forms.html)
+- [10 UI Elements Web Developers Should Know About](https://hackernoon.com/10-ui-elements-web-developers-should-know-about-n1q3t3z)
 - [Opinion: Laws of UX](https://lawsofux.com/)
 
 TLDR:
