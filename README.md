@@ -196,6 +196,7 @@
 - :star:[Learn JavaScript by Making Digital Tabletop Games and Web Apps](https://www.freecodecamp.org/news/learn-javascript-by-making-digital-tabletop-games-and-web-apps/)
 - :star:[How to Build a Multiplayer Tabletop Game Simulator with Vue, Phaser, Node, Express, and Socket.IO](https://www.freecodecamp.org/news/how-to-build-a-multiplayer-tabletop-game-simulator/)
 - 📊[ES5: Entire Javascript in One Image](https://www.theinsaneapp.com/2020/08/learn-entire-js-in-one-image.html)
+- [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
