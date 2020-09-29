@@ -496,6 +496,7 @@ TLDR:
 ## WebAssembly
 - :star:[Developer’s Guide](https://webassembly.org/getting-started/developers-guide/)
 - :star:[WebAssembly Guide](https://www.webassembly.guide/webassembly-guide/)
+- :star:[A Complete Introduction to WebAssembly and It’s JavaScript API](https://blog.bitsrc.io/a-complete-introduction-to-webassembly-and-its-javascript-api-3474a9845206)
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
 - [What languages can be compiled to WebAssembly (or wasm)?](https://stackoverflow.com/questions/43540878/what-languages-can-be-compiled-to-webassembly-or-wasm/43585437#43585437)
 - [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
