@@ -23,6 +23,7 @@
 - [Let’s Get Graphic: A Few Ways To Draw On The Web](https://stackoverflow.blog/2019/11/06/lets-get-graphic-a-few-ways-to-draw-on-the-web/)
  - [Why is modern web development so complicated? A long yet hasty explanation: Part 1!](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
 - [Making Web Components for Different Contexts](https://hackdoor.io/articles/5kQdnVND/making-web-components-for-different-contexts)
+- [Some New Icon Sets](https://css-tricks.com/some-new-icon-sets/) 
  
 ## Livros
   - :book:[PacktPub: Modern JavaScript Web Development Cookbook](https://subscription.packtpub.com/book/web_development/9781788992749)
@@ -197,6 +198,7 @@
 - :star:[How to Build a Multiplayer Tabletop Game Simulator with Vue, Phaser, Node, Express, and Socket.IO](https://www.freecodecamp.org/news/how-to-build-a-multiplayer-tabletop-game-simulator/)
 - 📊[ES5: Entire Javascript in One Image](https://www.theinsaneapp.com/2020/08/learn-entire-js-in-one-image.html)
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+- [The Flavors of Object-Oriented Programming (in JavaScript)](https://css-tricks.com/the-flavors-of-object-oriented-programming-in-javascript/)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
