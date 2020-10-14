@@ -200,6 +200,7 @@
 - 📊[ES5: Entire Javascript in One Image](https://www.theinsaneapp.com/2020/08/learn-entire-js-in-one-image.html)
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - [The Flavors of Object-Oriented Programming (in JavaScript)](https://css-tricks.com/the-flavors-of-object-oriented-programming-in-javascript/)
+- [The Binding Concept in Javascript](https://hackernoon.com/the-binding-concept-in-javascript-jk183twq)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
@@ -380,6 +381,7 @@
 - [Mozzila: Usando Fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch)
 - [Fetch API e o JavaScript](https://braziljs.org/artigos/fetch-api-e-o-javascript/)
 - [Upload image with Fetch API in JavaScript](https://coder4.life/content/code/fetch-api-upload-image)
+- [How to Fetch Data from APIs Using useEffect React Hook](https://hackernoon.com/how-to-fetch-data-from-apis-using-useeffect-react-hook-v51b3twa)
 
 ### Specific Components
 - [React Dashboard: an Ultimate Guide](https://react-dashboard.cube.dev/)
