@@ -535,6 +535,7 @@ TLDR:
 - [Binary Security of WebAssembly](http://www.software-lab.org/publications/usenixSec2020-WebAssembly.pdf)
 - [Unexpected Printf Behavior in Go WASM – Nothing Prints](https://qvault.io/2020/08/10/unexpected-printf-behavior-in-go-wasm/)
 - [Explorable Programming with Rust and WebAssembly](https://lowlvl.org/blog/explorable-programming)
+- [Rust: Are we web yet?](https://www.arewewebyet.org/)
 
 ## Performance
 - [Building a Website load in 50 ms](https://joshbradley.me/building-this-website/)
