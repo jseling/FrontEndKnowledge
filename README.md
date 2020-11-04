@@ -204,6 +204,7 @@
 - [The Flavors of Object-Oriented Programming (in JavaScript)](https://css-tricks.com/the-flavors-of-object-oriented-programming-in-javascript/)
 - [The Binding Concept in Javascript](https://hackernoon.com/the-binding-concept-in-javascript-jk183twq)
 - [VANILLA TODO: A case study showing that vanilla web development is viable](https://github.com/morris/vanilla-todo)
+- [The “Live DOM” Is Not “Slow”, “Bad”, Or “Wrong”. Web Developers Are.](https://deathshadow.medium.com/the-live-dom-is-not-slow-bad-or-wrong-web-developers-are-2bf86c3b9e2e)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
