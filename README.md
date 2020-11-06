@@ -366,6 +366,7 @@
 - :star:[Reintroducing React: every React update since v16 demystified.](https://www.freecodecamp.org/news/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc/)
 - [A critique of react hooks](https://dillonshook.com/a-critique-of-react-hooks/)
 - [POS Tutorial](https://blog.soshace.com/category/javascript/pos-tutorial/)
+- [React Functional Components, Props, and JSX – React.js Tutorial for Beginners](https://www.freecodecamp.org/news/react-components-jsx-props-for-beginners/)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
