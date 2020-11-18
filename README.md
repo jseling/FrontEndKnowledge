@@ -394,6 +394,7 @@
 - [WebGL, React, and no JavaScript](https://martin.varela.fi/2019/11/01/webgl-react-and-no-javascript/)
 - [A Collection of most useful and common ReactJS Libraries/Components](https://applibslist.xyz/)
 - [Styled Components vs. CSS Stylesheets](https://getstream.io/blog/styled-components-vs-css-stylesheets/)
+- [beautiful-react-diagrams](https://github.com/antonioru/beautiful-react-diagrams)
 
 ### React Router
 - [Oficial Training](https://reacttraining.com/react-router/web/guides/quick-start)
