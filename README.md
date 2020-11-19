@@ -539,6 +539,7 @@ TLDR:
 - [Unexpected Printf Behavior in Go WASM – Nothing Prints](https://qvault.io/2020/08/10/unexpected-printf-behavior-in-go-wasm/)
 - [Explorable Programming with Rust and WebAssembly](https://lowlvl.org/blog/explorable-programming)
 - [Rust: Are we web yet?](https://www.arewewebyet.org/)
+- [Going from JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/)
 
 ## Performance
 - [Building a Website load in 50 ms](https://joshbradley.me/building-this-website/)
