@@ -367,6 +367,7 @@
 - [A critique of react hooks](https://dillonshook.com/a-critique-of-react-hooks/)
 - [POS Tutorial](https://blog.soshace.com/category/javascript/pos-tutorial/)
 - [React Functional Components, Props, and JSX – React.js Tutorial for Beginners](https://www.freecodecamp.org/news/react-components-jsx-props-for-beginners/)
+- [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
