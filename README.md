@@ -402,6 +402,7 @@
 ### React Router
 - [Oficial Training](https://reacttraining.com/react-router/web/guides/quick-start)
 - [Roteamento no React com os poderes do React Router v4](https://medium.com/collabcode/roteamento-no-react-com-os-poderes-do-react-router-v4-fbc191b9937d)
+- [React Routers, Explained](https://medium.com/better-programming/react-routers-explained-ff89153a6405)
 
 ### Suspense
 - [Can you feel the Suspense?!](https://react.christmas/2019/5)
