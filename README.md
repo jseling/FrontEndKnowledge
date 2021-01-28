@@ -25,7 +25,8 @@
 - [Making Web Components for Different Contexts](https://hackdoor.io/articles/5kQdnVND/making-web-components-for-different-contexts)
 - [Some New Icon Sets](https://css-tricks.com/some-new-icon-sets/) 
 - [If not SPAs, What?](https://macwright.com/2020/10/28/if-not-spas.html)
-
+- [Components: Server-Side vs. Client-Side](https://css-tricks.com/components-server-side-vs-client-side/)
+ 
 ## Livros
   - :book:[PacktPub: Modern JavaScript Web Development Cookbook](https://subscription.packtpub.com/book/web_development/9781788992749)
  - [Mastering React Test-Driven Development](https://subscription.packtpub.com/book/web_development/9781789133417) 
