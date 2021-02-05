@@ -208,6 +208,7 @@
 - [The “Live DOM” Is Not “Slow”, “Bad”, Or “Wrong”. Web Developers Are.](https://deathshadow.medium.com/the-live-dom-is-not-slow-bad-or-wrong-web-developers-are-2bf86c3b9e2e)
 - [A few handy JavaScript tricks](https://dev.to/noseratio/a-few-handy-javascript-tricks-an9)
 - [Back to Basics: Event Delegation](https://christianheilmann.com/2020/11/01/back-to-basics-event-delegation/)
+- :book:[JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
