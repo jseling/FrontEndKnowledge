@@ -60,7 +60,9 @@
 - [Getting image data from canvas](http://falcon80.com/HTMLCanvas/PixelManipulation/getImageData.html)
 - [MDN Canvas tutorial](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Canvas_tutorial)
 - [MDN Canvas](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Canvas)
-
+- [HTML tips - hidden gems.](https://markodenic.com/html-tips/)
+- [HTML tips - hidden gems. REDDIT](https://en.reddit.com/r/programming/comments/mkh5y3/html_tips_hidden_gems/)
+- 
 ### Forms
 - [Take Control of Your Forms with HTML5](https://hackernoon.com/take-control-of-your-forms-with-html5-gq7436io)
 
