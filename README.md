@@ -550,6 +550,7 @@ TLDR:
 - [Explorable Programming with Rust and WebAssembly](https://lowlvl.org/blog/explorable-programming)
 - [Rust: Are we web yet?](https://www.arewewebyet.org/)
 - [Going from JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/)
+- [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
 
 ## Performance
 - [Building a Website load in 50 ms](https://joshbradley.me/building-this-website/)
