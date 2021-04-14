@@ -567,6 +567,8 @@ TLDR:
 
 ## CORS
 - [How I enabled CORS for any API on my Single Page App](https://dev.to/alediaferia/how-i-enabled-cors-for-any-api-on-my-single-page-app-n0b)
+- :star:[Deep dive in CORS: History, how it works, and best practices](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
 
 ## Security
 - [Online Stanford free-course: Web Security](https://web.stanford.edu/class/cs253/)
+
