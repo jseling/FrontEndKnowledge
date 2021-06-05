@@ -213,6 +213,7 @@
 - [Back to Basics: Event Delegation](https://christianheilmann.com/2020/11/01/back-to-basics-event-delegation/)
 - :book:[JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 - [JavaScript Tips](https://markodenic.com/javascript-tips/)
+- [How to Use else if in JavaScript with Examples](https://hackernoon.com/how-to-use-else-if-in-javascript-with-examples-19123510)
 
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
