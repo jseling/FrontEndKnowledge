@@ -241,7 +241,7 @@
 - [Using Hooks for Lazy-Loading Images in React](https://medium.com/better-programming/image-lazy-loading-in-react-intersection-observer-a9ae912ddafe)
 - [Stop Using === Everywhere](https://medium.com/better-programming/stop-using-everywhere-fd025342132d)
 
-### Parallel Programming
+### Async/Parallel Programming
 - [JavaScript Async/Await 101](https://hakaselogs.me/2017-08-12/javascript-async/await-101/)
 - [The evolving history of asynchronous operation in JavaScript](https://www.pixelstech.net/article/1573308283-The-evolving-history-of-asynchronous-operation-in-JavaScript)
 - [Writing Asynchronous Tasks In Modern JavaScript](https://www.smashingmagazine.com/2019/10/asynchronous-tasks-modern-javascript/)
@@ -251,7 +251,8 @@
 - [JavaScript Promise combinators: race, all, allSettled, any](https://www.wisdomgeek.com/development/web-development/javascript/javascript-promises-combinators-race-all-allsettled-any/)
 - [Async function with +=](https://stackoverflow.com/questions/59802441/async-function-with)
 - [await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
-
+- [JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream](https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/)
+ 
 ### Object Oriented Programming
 - [A Guide to Object-Oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81)
 - [JavaScript 101: Object Oriented Programming](https://www.codespot.org/javascript-101-object-oriented-programming/)
