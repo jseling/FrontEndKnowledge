@@ -461,6 +461,9 @@
 
 ## Usability
 - [Why the GOV.UK Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
+ 
+## Canvas
+- [The Future Web: Will Canvas Rendering Replace the DOM?](https://medium.com/young-coder/the-future-web-will-canvas-rendering-replace-the-dom-847be872884c) 
 
 ## Accessibility
 - [What I’ve learned about accessibility in SPAs](https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas/)
@@ -570,7 +573,8 @@ TLDR:
 
 ## HTTP
 - [http-decision-diagram](https://github.com/for-GET/http-decision-diagram)
-
+- [I don't have time for this sh...](https://www.turtle-techies.com/http-request-timeout-javascript/)
+ 
 ## CORS
 - [How I enabled CORS for any API on my Single Page App](https://dev.to/alediaferia/how-i-enabled-cors-for-any-api-on-my-single-page-app-n0b)
 - :star:[Deep dive in CORS: History, how it works, and best practices](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
