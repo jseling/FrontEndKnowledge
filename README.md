@@ -383,7 +383,8 @@
 - [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
 - [Optimize Performance and Render Websites Superfast in ReactJS](https://dzone.com/articles/optimize-performance-amp-render-website-superfast)
 - [React Table Guide And Best React Table Examples](https://flatlogic.com/blog/react-table-guide-and-best-react-table-examples/)
-
+- [9 React Libraries To Impress Your Boss](https://betterprogramming.pub/9-react-libraries-to-impress-your-boss-8977e10431ac)
+ 
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
 - [8 no-Flux strategies for React component communication](https://www.javascriptstuff.com/component-communication/)
