@@ -71,6 +71,7 @@
 - [Text fill on hover #1](https://codepen.io/grohit/pen/jObGzdG)
 
 ## CSS  
+- [CENTRALIZANDO COISAS](https://www.w3.org/Style/Examples/007/center.pt_BR.html)
 - :star:[CSS Tutorials Logic](https://www.tutorialslogic.com/css?ver.3)
 - [CSS: An Art, a Science, a Nightmare (Overview of CSS Concepts)](https://www.taniarascia.com/overview-of-css-concepts/)
 - [Fundamental CSS for Beginners](https://levelup.gitconnected.com/fundamental-css-for-beginners-f44e8b9a5da5)
