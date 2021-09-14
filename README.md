@@ -217,6 +217,7 @@
 - [JavaScript Tips](https://markodenic.com/javascript-tips/)
 - [How to Use else if in JavaScript with Examples](https://hackernoon.com/how-to-use-else-if-in-javascript-with-examples-19123510)
 - [Graph Data Structure Implementation in JavaScript](https://javascript.plainenglish.io/graph-data-structure-implementation-in-javascript-668f291a8a16)
+- [The core of JavaScript; Prototypes](https://medium.com/@abhimm5/the-core-of-javascript-prototypes-afb81f50323)
  
 ### Video-aula
 - [01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
