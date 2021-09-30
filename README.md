@@ -450,7 +450,8 @@
 - [Use and Reuse Everything in SVG… Even Animations!](https://css-tricks.com/use-and-reuse-everything-in-svg-even-animations/)
 - [svg: Customize and apply backgrounds fast](https://www.svgbackgrounds.com/)
 - [Handcrafting your own SVG](https://blog.frankel.ch/handcrafting-own-svg/)
-
+- [VECTOR? RASTER? WHY NOT BOTH!](https://www.zachleat.com/web/vector-raster-split/)
+ 
 ## GraphQL
 - [GraphQL query language by examples](https://medium.com/beautiful-code-smart-design-by-10clouds/graphql-by-examples-rest-dev-perspective-386dc86b790e)
 
