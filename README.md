@@ -389,6 +389,7 @@
 - [Optimize Performance and Render Websites Superfast in ReactJS](https://dzone.com/articles/optimize-performance-amp-render-website-superfast)
 - [React Table Guide And Best React Table Examples](https://flatlogic.com/blog/react-table-guide-and-best-react-table-examples/)
 - [9 React Libraries To Impress Your Boss](https://betterprogramming.pub/9-react-libraries-to-impress-your-boss-8977e10431ac)
+- [Performance Optimization in React applications](https://blog.bloomca.me/2021/10/10/performance-optimization-in-react-applications.html)
  
 ### Components Communication
 - [Patterns de comunicação entre componentes (Sem Redux!)](https://medium.com/@joaolucasluc/comunicacao-entre-componentes-react-8574108b5043)
