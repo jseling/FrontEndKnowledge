@@ -130,6 +130,7 @@
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
 - [Mozilla: Usando Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries)
 - [Using Media Queries in CSS](https://medium.com/swlh/using-media-queries-in-css-1d7aa8d30dcf)
+- [Conditional Border Radius In CSS](https://ishadeed.com/article/conditional-border-radius/)
 
 ### Flexbox
 - :star:[Flex Layout Editor](http://www.csstutorial.org/flex-both.html?v=css)
@@ -585,7 +586,8 @@ TLDR:
 ## CORS
 - [How I enabled CORS for any API on my Single Page App](https://dev.to/alediaferia/how-i-enabled-cors-for-any-api-on-my-single-page-app-n0b)
 - :star:[Deep dive in CORS: History, how it works, and best practices](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
-
+- [CORS: A Short and Sweet Explanation](https://javascript.plainenglish.io/cors-a-short-and-sweet-explanation-517443c367a6)
+ 
 ## Security
 - [Online Stanford free-course: Web Security](https://web.stanford.edu/class/cs253/)
 
