@@ -450,6 +450,7 @@
 - [Filtering, Sorting and Pagination – Advanced Filtering with React and Redux](https://blog.soshace.com/filtering-sorting-and-pagination-advanced-filtering-with-react-and-redux/)
 
 ## SVG
+- [Pocket Guide to Writing SVG](https://svgpocketguide.com/)
 - [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
 - [Use and Reuse Everything in SVG… Even Animations!](https://css-tricks.com/use-and-reuse-everything-in-svg-even-animations/)
 - [svg: Customize and apply backgrounds fast](https://www.svgbackgrounds.com/)
